@@ -139,5 +139,131 @@ La demande de vérification par le président de l'établissement public de coop
 A la demande du maire, du président de l'établissement public de coopération intercommunale, du représentant de l'Etat dans le département ou du procureur de la République, le ministre de l'intérieur peut décider de la vérification de l'organisation et du fonctionnement d'un service de police municipale. Il en fixe les modalités après consultation du maire ou, le cas échéant, après consultation du président de l'établissement public de coopération intercommunale et de chacun des maires concernés. Cette vérification peut être opérée par les services d'inspection générale de l'Etat. Les conclusions sont transmises au représentant de l'Etat dans le département, au procureur de la République, au maire de la ou des communes concernées et, le cas échéant, au président de l'établissement public de coopération intercommunale.
 La demande de vérification par le président de l'établissement public de coopération intercommunale ne peut porter que sur la mise à disposition des agents de police municipale ou leurs équipements.
 
-# Article 7
+# Article 8
 
+## Avant
+
+### L. 632‑3
+
+Le Conseil national des activités privées de sécurité peut recruter des salariés soumis aux dispositions du code du travail, des agents contractuels de droit public ou des fonctionnaires détachés auprès de lui. Le directeur du Conseil national des activités privées de sécurité est nommé par décret, sur proposition du ministre de l'intérieur.
+
+### L8271-1-2
+
+Les agents de contrôle compétents en application de l'article L. 8271-1 sont :
+
+1° Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 ;
+
+2° Les officiers et agents de police judiciaire ;
+
+3° Les agents des impôts et des douanes ;
+
+4° Les agents des organismes de sécurité sociale et des caisses de mutualité sociale agricole agréés à cet effet et assermentés ;
+
+5° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ;
+
+6° Les fonctionnaires des corps techniques de l'aviation civile commissionnés à cet effet et assermentés ;
+
+7° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres ;
+
+8° Les agents de l'institution mentionnée à l'article L. 5312-1, chargés de la prévention des fraudes, agréés et assermentés à cet effet.
+
+### L. 8271‑17
+
+Outre les inspecteurs et contrôleurs du travail, les agents et officiers de police judiciaire, les agents de la direction générale des douanes sont compétents pour rechercher et constater, au moyen de procès-verbaux transmis directement au procureur de la République, les infractions aux dispositions de l'article L. 8251-1 relatif à l'emploi d'un étranger sans titre de travail.
+
+## Aprés
+
+### L. 632‑3
+
+Le Conseil national des activités privées de sécurité peut recruter des agents contractuels de droit public ou des fonctionnaires détachés auprès de lui. Le directeur du Conseil national des activités privées de sécurité est nommé par décret, sur proposition du ministre de l'intérieur.
+
+### section 1 du chapitre IV
+
+« Art. L. 634‑3‑2. – Les agents du Conseil national des activités privées de sécurité qui sont commissionnés par le directeur de l’établissement public et assermentés sont habilités à rechercher et à constater par procès‑verbal, à l’occasion des contrôles qu’ils réalisent, les infractions prévues au présent livre.
+
+« Les procès‑verbaux qu’ils établissent, qui peuvent comporter les déclarations spontanées des personnes présentes lors du contrôle, sont transmis au procureur de la République territorialement compétent.
+
+« Les conditions d’application du présent article sont fixées par décret en Conseil d’État.
+
+« Art. L. 634‑3‑3. – Pour l’établissement des procès‑verbaux mentionnés à l’article L. 634‑3‑2, les agents du Conseil national des activités privées de sécurité mentionnés au même article L. 634‑3‑2 sont habilités à recueillir ou à relever l’identité et l’adresse de l’auteur présumé de l’infraction.
+
+« Si ce dernier refuse ou se trouve dans l’impossibilité de justifier de son identité, l’agent qui dresse procès‑verbal en rend compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur‑le‑champ la personne concernée ou de la retenir pendant le temps nécessaire à son arrivée ou à celle d’un agent de police judiciaire agissant sous son contrôle. À défaut d’un tel ordre, l’agent du Conseil national des activités privées de sécurité ne peut retenir la personne concernée.
+
+« Pendant le temps nécessaire à l’information et à la décision de l’officier de police judiciaire, la personne concernée est tenue de demeurer à la disposition de l’agent du Conseil national des activités privées de sécurité. La violation de cette obligation est punie de deux mois d’emprisonnement et de 7 500 € d’amende. Le refus d’obtempérer à l’ordre de suivre l’agent pour se voir présenter à l’officier de police judiciaire est puni de la même peine. » 
+
+### L8271-1-2
+
+Les agents de contrôle compétents en application de l'article L. 8271-1 sont :
+
+1° Les agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 ;
+
+2° Les officiers et agents de police judiciaire ;
+
+3° Les agents des impôts et des douanes ;
+
+4° Les agents des organismes de sécurité sociale et des caisses de mutualité sociale agricole agréés à cet effet et assermentés ;
+
+5° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ;
+
+6° Les fonctionnaires des corps techniques de l'aviation civile commissionnés à cet effet et assermentés ;
+
+7° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres ;
+
+8° Les agents de l'institution mentionnée à l'article L. 5312-1, chargés de la prévention des fraudes, agréés et assermentés à cet effet.
+
+9° Les agents du Conseil national des activités privées de sécurité commissionnés par le directeur de l’établissement public et assermentés.
+
+### L. 8271‑17
+
+Outre les inspecteurs et contrôleurs du travail, les agents et officiers de police judiciaire, les agents de la direction générale des douanes et les agents du Conseil national des activités privées de sécurité commissionnés par le directeur de l’établissement public et assermentés sont compétents pour rechercher et constater, au moyen de procès-verbaux transmis directement au procureur de la République, les infractions aux dispositions de l'article L. 8251-1 relatif à l'emploi d'un étranger sans titre de travail.
+
+
+# Article 8 bis
+
+## Avant
+
+Tout manquement aux lois, règlements et obligations professionnelles et déontologiques applicables aux activités privées de sécurité peut donner lieu à sanction disciplinaire. Le Conseil national des activités privées de sécurité ne peut être saisi de faits remontant à plus de trois ans s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur sanction.
+
+Les sanctions disciplinaires applicables aux personnes physiques et morales exerçant les activités définies aux titres Ier, II et II bis sont, compte tenu de la gravité des faits reprochés : l'avertissement, le blâme et l'interdiction d'exercice de l'activité privée de sécurité ou de l'activité mentionnée à l'article L. 625-1 à titre temporaire pour une durée qui ne peut excéder cinq ans. En outre, les personnes morales et les personnes physiques non salariées peuvent se voir infliger des pénalités financières. Le montant des pénalités financières est fonction de la gravité des manquements commis et, le cas échéant, en relation avec les avantages tirés du manquement, sans pouvoir excéder 150 000 €. Ces pénalités sont prononcées dans le respect des droits de la défense.
+
+## Aprés
+
+Tout manquement aux lois, règlements et obligations professionnelles et déontologiques applicables aux activités privées de sécurité peut donner lieu à sanction disciplinaire. Le Conseil national des activités privées de sécurité ne peut être saisi de faits remontant à plus de trois ans s'il n'a été fait aucun acte tendant à leur recherche, leur constatation ou leur sanction.
+
+Les sanctions disciplinaires applicables aux personnes physiques et morales exerçant les activités définies aux titres Ier, II et II bis sont, compte tenu de la gravité des faits reprochés : l'avertissement, le blâme et l'interdiction d'exercice de l'activité privée de sécurité ou de l'activité mentionnée à l'article L. 625-1 à titre temporaire pour une durée qui ne peut excéder cinq ans. En outre, les personnes morales et les personnes physiques peuvent se voir infliger des pénalités financières. Le montant des pénalités financières est fonction de la gravité des manquements commis et, le cas échéant, en relation avec les avantages tirés du manquement, sans pouvoir excéder 150 000 €. Ces pénalités sont prononcées dans le respect des droits de la défense.
+
+# Article 9
+
+## Avant
+
+### L. 633‑1
+
+Dans chaque région, une commission régionale d'agrément et de contrôle est chargée, au nom du Conseil national des activités privées de sécurité :
+1° De délivrer les autorisations, agréments et cartes professionnelles prévus aux articles L. 612-6, L. 612-7, L. 612-9, L. 612-11, L. 612-12, L. 612-20, L. 612-22, L. 612-23, L. 612-24, L. 612-25, L. 613-3, L. 622-6, L. 622-7, L. 622-9, L. 622-11, L. 622-12, L. 622-13, L. 622-19, L. 622-21 et L. 622-22 ;
+2° De refuser, retirer ou suspendre les agréments, autorisations et cartes professionnelles pour exercer ces activités dans les conditions prévues aux articles L. 612-8, L. 612-16 à L. 612-19, L. 612-20, L. 622-8, L. 622-14 à L. 622-17 et L. 622-19 ;
+3° De prononcer les sanctions disciplinaires prévues à l'article L. 634-4.
+Elle est composée selon les mêmes modalités que la commission nationale d'agrément et de contrôle. Elle élit son président parmi les représentants de l'Etat, les magistrats de l'ordre judiciaire ou les membres des juridictions administratives. Son président exerce les décisions qu'appelle l'urgence.
+Ses membres sont soumis aux mêmes obligations que les membres du Conseil national des activités privées de sécurité.
+
+## Aprés
+
+### L. 633‑1
+
+Dans chaque région, une commission régionale d'agrément et de contrôle est chargée, au nom du Conseil national des activités privées de sécurité :
+1° De délivrer les autorisations, agréments et cartes professionnelles prévus aux articles L. 612-6, L. 612-7, L. 612-9, L. 612-11, L. 612-12, L. 612-20, L. 612-22, L. 612-23, L. 612-24, L. 612-25, L. 613-3, L. 622-6, L. 622-7, L. 622-9, L. 622-11, L. 622-12, L. 622-13, L. 622-19, L. 622-21 et L. 622-22 ;
+2° De refuser, retirer ou suspendre les agréments, autorisations et cartes professionnelles pour exercer ces activités dans les conditions prévues aux articles L. 612-8, L. 612-16 à L. 612-19, L. 612-20, L. 622-8, L. 622-14 à L. 622-17 et L. 622-19 ;
+3° De prononcer les sanctions disciplinaires prévues aux articles L. 634‑4 et L. 634‑4‑1.
+Elle est composée selon les mêmes modalités que la commission nationale d'agrément et de contrôle. Elle élit son président parmi les représentants de l'Etat, les magistrats de l'ordre judiciaire ou les membres des juridictions administratives. Son président exerce les décisions qu'appelle l'urgence.
+Ses membres sont soumis aux mêmes obligations que les membres du Conseil national des activités privées de sécurité.
+
+### section 2 du chapitre IV
+
+« Art. L. 634‑4‑1. – Sur décision de la commission d’agrément et de contrôle territorialement compétente, les sanctions consistant en une interdiction temporaire d’exercer ou en une sanction pécuniaire prononcées à l’encontre des personnes physiques ou morales exerçant les activités définies aux titres Ier, II et II bis du présent livre, peuvent également, compte tenu de la gravité des faits reprochés, être publiées en tout ou partie sur le site internet du Conseil national des activités privées de sécurité sans que la durée de cette publication puisse excéder cinq ans.
+
+« La décision de la commission d’agrément et de contrôle peut également prévoir dans les mêmes conditions la publication de la sanction, aux frais de la personne sanctionnée, sur les supports qu’elle désigne.
+
+« Les publications mentionnées aux premier et deuxième alinéas ne peuvent intervenir qu’à l’expiration du délai de recours administratif préalable obligatoire prévu à l’article L. 633‑3 ou, le cas échéant, à l’issue de ce recours.
+
+« En cas d’inexécution par la personne sanctionnée de la mesure de publicité dans le délai qui lui a été imparti, le Conseil national des activités privées de sécurité peut la mettre en demeure de procéder à cette publication. Cette mise en demeure peut être assortie d’une astreinte journalière pouvant aller jusqu’à 300 €.
+
+« Lorsque la décision de sanction rendue publique fait l’objet d’un recours contentieux, le Conseil national des activités privées de sécurité publie sans délai, sur son site internet, cette information ainsi que toute information ultérieure sur l’issue de ce recours. » 
