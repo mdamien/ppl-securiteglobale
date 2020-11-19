@@ -267,3 +267,178 @@ Ses membres sont soumis aux mêmes obligations que les membres du Conseil nation
 « En cas d’inexécution par la personne sanctionnée de la mesure de publicité dans le délai qui lui a été imparti, le Conseil national des activités privées de sécurité peut la mettre en demeure de procéder à cette publication. Cette mise en demeure peut être assortie d’une astreinte journalière pouvant aller jusqu’à 300 €.
 
 « Lorsque la décision de sanction rendue publique fait l’objet d’un recours contentieux, le Conseil national des activités privées de sécurité publie sans délai, sur son site internet, cette information ainsi que toute information ultérieure sur l’issue de ce recours. » 
+
+# Article 10
+
+## Avant
+
+### L. 612‑20
+
+Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 611-1 :
+
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+
+2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+
+4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat et, s'il utilise un chien dans le cadre de son emploi ou de son affectation, de l'obtention d'une qualification définie en application de l'article L. 613-7.
+
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée selon des modalités définies par décret en Conseil d'Etat.
+
+La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et de la pêche maritime.
+
+Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L. 616-2.
+
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### L612-22
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2° et 3° de l'article L. 612-20.
+
+### L622‑19
+
+Nul ne peut être employé pour participer à l'activité mentionnée à l'article L. 621-1 :
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national, après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, par le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat.
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission d'agrément et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat. La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°.
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### L622-21
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 4° et 5° de l'article L. 622-19.
+
+## Aprés
+
+### L. 612‑20
+
+Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 611-1 :
+
+« 1° S’il a fait l’objet d’une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour l’un des motifs suivants :
+
+« – atteintes volontaires à la vie prévues aux articles 221‑1 à 221‑5‑5 du code pénal ;
+
+« – tortures et actes de barbarie prévus aux articles 222‑1 à 222‑6‑4 du même code ;
+
+« – violences volontaires prévues aux articles 222‑7 à 222‑16‑3 dudit code ;
+
+« – exploitation de la vente à la sauvette prévue à l’article 225‑12‑8 du même code ;
+
+« – soumission à des conditions d’hébergement incompatibles avec la dignité humaine prévue à l’article 225‑14 du même code ;
+
+« – travail forcé prévu à l’article 225‑14‑1 du même code ;
+
+« – réduction en servitude prévue à l’article 225‑14‑2 du même code ;
+
+« – administration de substances nuisibles prévue à l’article 222‑15 du même code ;
+
+« – embuscade prévue à l’article 222‑15‑1 du même code ;
+
+« – menaces d’atteinte aux personnes prévues aux articles 222‑17 à 222‑18‑3 du même code ;
+
+« – viol et agressions sexuelles prévus aux articles 222‑22 à 222‑31‑2 du même code ;
+
+« – exhibition sexuelle prévue à l’article 222‑32 du même code ;
+
+« – harcèlement sexuel prévu à l’article 222‑33 du même code ;
+
+« – harcèlement moral prévu aux articles 222‑33‑2 et 222‑33‑2‑1 du même code ;
+
+« – enregistrement et diffusion d’images de violence prévus à l’article 222‑33‑3 du même code ;
+
+« – trafic de stupéfiants prévu aux articles 222‑34 à 222‑43‑1 du même code ;
+
+« – infractions relatives aux armes prévues aux articles 222‑52 à 222‑67 du même code ;
+
+« – enlèvement et séquestration prévus aux articles 224‑1 à 224‑5‑2 du même code ;
+
+« – détournement d’aéronef, de navire ou de tout autre moyen de transport prévu aux articles 224‑6 à 224‑8‑1 du même code ;
+
+« – traite des êtres humains prévue aux articles 225‑4‑1 à 225‑4‑9 du même code ;
+
+« – proxénétisme et infractions qui en résultent prévus aux articles 225‑5 à 225‑12 du même code ;
+
+« – recours à la prostitution des mineurs ou de personnes particulièrement vulnérables prévu aux articles 225‑12‑1 à 225‑12‑4 du même code ;
+
+« – exploitation de la mendicité prévue aux articles 225‑12‑5 à 225‑12‑7 du même code ;
+
+« – vols prévus aux articles 311‑1 à 311‑11 du même code ;
+
+« – extorsion prévue aux articles 312‑1 à 312‑9 du même code ;
+
+« – demande de fonds sous contrainte prévue à l’article 312‑12‑1 du même code ;
+
+« – recel de vol ou d’extorsion prévu aux articles 321‑1 à 321‑5 du même code ;
+
+« – destruction, dégradation et détérioration d’un bien prévues au premier alinéa de l’article 322‑1 du même code ;
+
+« – destruction, dégradation et détérioration ne présentant pas de danger pour les personnes prévues aux articles 322‑1 à 322‑4‑1 du même code commises en état de récidive légale ;
+
+« – destruction, dégradation et détérioration dangereuses pour les personnes prévues aux articles 322‑5 à 322‑11‑1 du même code ;
+
+« – menaces de destruction, de dégradation ou de détérioration et fausses alertes prévues aux articles 322‑12 à 322‑14 du même code ;
+
+« – blanchiment prévu aux articles 324‑1 à 324‑6‑1 du même code ;
+
+« – actes de terrorisme prévus aux articles 421‑1 à 421‑6 du même code ;
+
+« – entrave à l’exercice des libertés d’expression, du travail, d’association, de réunion ou de manifestation prévue aux articles 431‑1 et 431‑2 du même code ;
+
+« – participation à un attroupement en étant porteur d’une arme ou provocation directe à un attroupement armé prévues aux articles 431‑5 et 431‑6 du même code ;
+
+« – participation à une manifestation ou à une réunion publique en étant porteur d’une arme prévue à l’article 431‑10 du même code ;
+
+« – participation à un groupe de combat interdit prévue aux articles 431‑13 à 431‑21 du même code ;
+
+« – intrusion dans un établissement d’enseignement scolaire par une personne porteuse d’une arme prévue aux articles 431‑24 et 431‑25 du même code ;
+
+« – rébellion armée et rébellion armée en réunion prévues à l’article 433‑8 du même code ;
+
+« – association de malfaiteurs prévue à l’article 450‑1 du même code ; » 
+
+2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés du bulletin n° 2 du casier judiciaire et, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+
+4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+
+« 4° bis Pour un ressortissant étranger ne relevant pas de l’article L. 121‑1 du code de l’entrée et du séjour des étrangers et du droit d’asile, s’il n’est pas titulaire, depuis au moins cinq ans, d’un titre de séjour ; » 
+
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat et, s'il utilise un chien dans le cadre de son emploi ou de son affectation, de l'obtention d'une qualification définie en application de l'article L. 613-7.
+
+« 6° Pour un ressortissant d’un État membre de l’Union européenne ou d’un État partie à l’accord sur l’Espace économique européen ou pour un ressortissant d’un pays tiers, s’il ne justifie pas d’une connaissance de la langue française suffisante pour l’exercice d’une activité privée de sécurité mentionnée à l’article L. 611‑1, selon les modalités définies par décret en Conseil d’État. » ; 
+
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée selon des modalités définies par décret en Conseil d'Etat.
+
+La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2°, 3°, 4° et 5° du présent article. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et de la pêche maritime.
+
+Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L. 616-2.
+
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### L612-22
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2°, 3°, 4° et 4° bis de l'article L. 612-20.
+
+
+### L622‑19
+
+Nul ne peut être employé pour participer à l'activité mentionnée à l'article L. 621-1 :
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour l’un des motifs mentionnés au 1° de l’article L. 612‑20 ;
+2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national, après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+2° bis Pour un ressortissant étranger ne relevant pas de l’article L. 121‑1 du code de l’entrée et du séjour des étrangers et du droit d’asile, s’il n’est pas titulaire, depuis au moins cinq ans, d’un titre de séjour ;
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, par le préfet de police, et individuellement désignés du bulletin n° 2 du casier judiciaire et, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat.
+« 6° Pour un ressortissant d’un État membre de l’Union européenne ou d’un État partie à l’accord sur l’Espace économique européen ou pour un ressortissant d’un pays tiers, s’il ne justifie pas d’une connaissance de la langue française suffisante pour l’exercice de l’activité mentionnée à l’article L. 621‑1, selon les modalités définies par décret en Conseil d’État. » ; 
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission d'agrément et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat. La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2°, 3°, 4° et 5°.
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### L622-21
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2°, 2° bis, 3° et 4° de l'article L. 622-19.
