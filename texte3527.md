@@ -109,3 +109,126 @@ Lorsqu'il n'est pas nécessaire de procéder à l'audition de la personne mentio
 Une personne trouvée en état d'ivresse dans les lieux publics est, par mesure de police, conduite à ses frais par des agents de la police nationale, des militaires de la gendarmerie nationale ou par des agents de police municipale, après avoir fait procéder à un examen médical attestant que son état de santé ne s’y oppose pas, dans le local de police nationale ou de gendarmerie le plus voisin ou dans une chambre de sûreté, pour y être retenue jusqu'à ce qu'elle ait recouvré la raison.
 
 Lorsqu'il n'est pas nécessaire de procéder à l'audition de la personne mentionnée au premier alinéa immédiatement après qu'elle a recouvré la raison, elle peut, par dérogation au même premier alinéa, être placée par un officier ou un agent de police judiciaire sous la responsabilité d'une personne qui se porte garante d'elle.
+
+# Article 4
+
+## Avant
+
+### L. 511‑2
+
+Les fonctions d'agent de police municipale ne peuvent être exercées que par des fonctionnaires territoriaux recrutés à cet effet dans les conditions fixées par les statuts particuliers prévus à l'article 6 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+Ils sont nommés par le maire ou le président de l'établissement public de coopération intercommunale, agréés par le représentant de l'Etat dans le département et le procureur de la République, puis assermentés. Cet agrément et cette assermentation restent valables tant qu'ils continuent d'exercer des fonctions d'agents de police municipale. En cas de recrutement par une commune ou un établissement de coopération intercommunale situé sur le ressort d'un autre tribunal de grande instance, les procureurs de la République compétents au titre de l'ancien et du nouveau lieu d'exercice des fonctions sont avisés sans délai.
+L'agrément peut être retiré ou suspendu par le représentant de l'Etat ou le procureur de la République après consultation du maire ou du président de l'établissement public de coopération intercommunale. Toutefois, en cas d'urgence, l'agrément peut être suspendu par le procureur de la République sans qu'il soit procédé à cette consultation.
+
+## Aprés
+
+### L. 511‑2
+
+Les fonctions d'agent de police municipale ne peuvent être exercées que par des fonctionnaires territoriaux recrutés à cet effet dans les conditions fixées par les statuts particuliers prévus à l'article 6 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et, à Paris, par des fonctionnaires de la Ville de Paris relevant du chapitre III du titre III du présent livre.
+Ils sont nommés par le maire ou le président de l'établissement public de coopération intercommunale, agréés par le représentant de l'Etat dans le département et le procureur de la République, puis assermentés. Cet agrément et cette assermentation restent valables tant qu'ils continuent d'exercer des fonctions d'agents de police municipale. En cas de recrutement par une commune ou un établissement de coopération intercommunale situé sur le ressort d'un autre tribunal de grande instance, les procureurs de la République compétents au titre de l'ancien et du nouveau lieu d'exercice des fonctions sont avisés sans délai.
+L'agrément peut être retiré ou suspendu par le représentant de l'Etat ou le procureur de la République après consultation du maire ou du président de l'établissement public de coopération intercommunale. Toutefois, en cas d'urgence, l'agrément peut être suspendu par le procureur de la République sans qu'il soit procédé à cette consultation.
+
+### titre III
+
+Chapitre III
+
+« Agents de police municipale exerçant leurs fonctions
+sur le territoire de la Ville de Paris
+
+« Art. L. 533‑1. – Les fonctions d’agent de police municipale ne peuvent être exercées à Paris que par des fonctionnaires de la Ville de Paris recrutés dans le cadre des dispositions prévues au présent chapitre. Le titre Ier du présent livre leur est applicable, sous réserve des dérogations prévues au présent chapitre.
+
+« Art. L. 533‑2. – Par dérogation à l’article 118 de la loi n° 84‑53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les corps de la police municipale à Paris sont créés par décret en Conseil d’État après avis du Conseil de Paris.
+
+« Art. L. 533‑3. – Par dérogation à l’article L. 511‑6, les agents mentionnés à l’article L. 533‑1 bénéficient d’une formation initiale et continue assurée par la Ville de Paris. Le contenu et la durée de ces formations sont équivalents à ceux des formations dispensées aux agents des cadres d’emplois de la police municipale mentionnés à l’article L. 511‑2. La Ville de Paris peut à cet effet passer une convention avec les administrations et établissements publics de l’État chargés de la formation des fonctionnaires de la police nationale et des militaires de la gendarmerie nationale.
+
+« Art. L. 533‑4. – À Paris, les agents mentionnés à l’article L. 533‑1 peuvent constater par procès‑verbal les contraventions aux arrêtés de police du préfet de police relatifs au bon ordre, à la salubrité, à la sécurité et la tranquillité publiques.
+
+« Les dispositions du premier alinéa du présent article ne sont pas applicables aux interdictions de manifestation sur la voie publique.
+
+« Art. L. 533‑5. – Les attributions dévolues par le titre Ier du présent livre au représentant de l’État dans le département sont exercées à Paris par le préfet de police. »
+
+### loi
+
+II. – Les statuts particuliers des corps de la police municipale à Paris sont fixés par référence aux cadres d’emplois de la police municipale. Ils fixent notamment les conditions d’intégration, de reclassement et de formation des fonctionnaires de la Ville de Paris exerçant des fonctions d’agent de police municipale.
+
+Dans des conditions fixées par les statuts particuliers prévus à l’article L. 533‑2 du code de la sécurité intérieure, les agents intégrés au sein des corps des agents de police municipale lors de la constitution initiale de ces corps et astreints à la formation initiale peuvent être dispensés de tout ou partie de cette formation à raison de la reconnaissance de leurs expériences professionnelles antérieures. 
+
+# Article 5
+
+## Avant
+
+Les communes formant un ensemble de moins de 80 000 habitants d'un seul tenant peuvent avoir un ou plusieurs agents de police municipale en commun, compétents sur le territoire de chacune d'entre elles.
+
+Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ces agents sont placés sous l'autorité du maire de cette commune.
+
+Chaque agent de police municipale est de plein droit mis à disposition des autres communes par la commune qui l'emploie dans des conditions prévues par une convention transmise au représentant de l'Etat dans le département. Cette convention, conclue entre l'ensemble des communes intéressées, précise les modalités d'organisation et de financement de la mise en commun des agents et de leurs équipements.
+
+Ces communes se dotent d'une convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat dans les formes prévues par la section 2 du présent chapitre.
+
+Le cas échéant, la demande de port d'arme prévue par l'article L. 511-5 est établie conjointement par l'ensemble des maires de ces communes. Ceux-ci désignent parmi eux l'autorité qui sera autorisée par le représentant de l'Etat dans le département à acquérir et détenir les armes.
+
+Une commune appartenant à un établissement public de coopération intercommunale à fiscalité propre ne peut mettre en commun des agents de police municipale lorsque cet établissement met des agents à disposition des communes dans les conditions prévues à l'article L. 512-2.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+## Aprés
+
+Les communes formant un ensemble d'un seul tenant peuvent avoir un ou plusieurs agents de police municipale en commun, compétents sur le territoire de chacune d'entre elles.
+
+Pendant l'exercice de leurs fonctions sur le territoire d'une commune, ces agents sont placés sous l'autorité du maire de cette commune.
+
+Chaque agent de police municipale est de plein droit mis à disposition des autres communes par la commune qui l'emploie dans des conditions prévues par une convention transmise au représentant de l'Etat dans le département. Cette convention, conclue entre l'ensemble des communes intéressées, précise les modalités d'organisation et de financement de la mise en commun des agents et de leurs équipements.
+
+Ces communes se dotent d'une convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat dans les formes prévues par la section 2 du présent chapitre.
+
+Le cas échéant, la demande de port d'arme prévue par l'article L. 511-5 est établie conjointement par l'ensemble des maires de ces communes. Ceux-ci désignent parmi eux l'autorité qui sera autorisée par le représentant de l'Etat dans le département à acquérir et détenir les armes.
+
+Une commune appartenant à un établissement public de coopération intercommunale à fiscalité propre ne peut mettre en commun des agents de police municipale lorsque cet établissement met des agents à disposition des communes dans les conditions prévues à l'article L. 512-2.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+# Article 6
+
+## Avant
+
+
+## Aprés
+
+« Art. L. 412‑57. – Le recrutement en qualité de gardien de police municipale intervient après inscription sur la liste d’aptitude établie en application des dispositions de l’article 36 de la loi n° 84‑53 du 26 janvier 1984 précitée.
+
+« Les candidats inscrits sur la liste d’aptitude prévue au premier alinéa du présent article et recrutés par une commune ou un établissement public de coopération intercommunale à fiscalité propre sont nommés gardiens de police municipale stagiaires par l’autorité territoriale investie du pouvoir de nomination pour une durée d’un an.
+
+« Le gardien de police municipale stagiaire souscrit l’engagement de servir la commune ou l’établissement public qui a pris en charge sa formation pour une durée minimale de trois ans à compter de la date de sa titularisation et qui ne peut excéder cinq ans.
+
+« Le policier municipal qui rompt l’engagement prévu au troisième alinéa du présent article doit rembourser à la collectivité territoriale ou à l’établissement public une somme correspondant au montant du traitement net et des indemnités qu’il a perçus au cours de sa formation. Dans ce cas, il ne peut être fait application des dispositions prévues au second alinéa de l’article 51 de la loi n° 84‑53 du 26 janvier 1984 précitée.
+
+« Le policier municipal qui rompt l’engagement prévu au même troisième alinéa peut être dispensé par le maire ou le président de l’établissement public de coopération intercommunale de tout ou partie du remboursement, pour des motifs impérieux, notamment tirés de son état de santé ou de nécessités d’ordre familial. Dans ce cas, il est fait application des dispositions prévues au second alinéa de l’article 51 de la loi n° 84‑53 du 26 janvier 1984 précitée.
+
+« Les conditions d’application du présent article sont précisées par décret en Conseil d’État. » 
+
+# Article 6 bis
+
+## Avant
+
+## Aprés
+
+« Section 4 bis
+
+« Brigades canines de police municipale 
+
+« Art. L. 511‑5‑2. – Sur décision du maire, une brigade canine de police municipale peut être créée pour l’accomplissement des missions mentionnées à l’article L 511‑1, sous réserve de l’existence d’une convention de coordination des interventions de la police municipale et des forces de sécurité de l’État prévue à la section 2 du chapitre II du présent titre.
+
+« Un décret en Conseil d’État précise les conditions de création et d’emploi de cette brigade, les modalités d’exercice des missions qu’elle effectue et les conditions de propriété et de garde des chiens. »  
+
+# Article 6 ter
+
+## Avant
+
+A la demande du maire, du président de l'établissement public de coopération intercommunale, du représentant de l'Etat dans le département ou du procureur de la République, et après avis de la commission consultative des polices municipales, le ministre de l'intérieur peut décider de la vérification de l'organisation et du fonctionnement d'un service de police municipale. Il en fixe les modalités après consultation du maire ou, le cas échéant, après consultation du président de l'établissement public de coopération intercommunale et de chacun des maires concernés. Cette vérification peut être opérée par les services d'inspection générale de l'Etat. Les conclusions sont transmises au représentant de l'Etat dans le département, au procureur de la République, au maire de la ou des communes concernées et, le cas échéant, au président de l'établissement public de coopération intercommunale.
+La demande de vérification par le président de l'établissement public de coopération intercommunale ne peut porter que sur la mise à disposition des agents de police municipale ou leurs équipements.
+
+## Aprés
+
+A la demande du maire, du président de l'établissement public de coopération intercommunale, du représentant de l'Etat dans le département ou du procureur de la République, le ministre de l'intérieur peut décider de la vérification de l'organisation et du fonctionnement d'un service de police municipale. Il en fixe les modalités après consultation du maire ou, le cas échéant, après consultation du président de l'établissement public de coopération intercommunale et de chacun des maires concernés. Cette vérification peut être opérée par les services d'inspection générale de l'Etat. Les conclusions sont transmises au représentant de l'Etat dans le département, au procureur de la République, au maire de la ou des communes concernées et, le cas échéant, au président de l'établissement public de coopération intercommunale.
+La demande de vérification par le président de l'établissement public de coopération intercommunale ne peut porter que sur la mise à disposition des agents de police municipale ou leurs équipements.
+
