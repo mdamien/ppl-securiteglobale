@@ -442,3 +442,773 @@ En cas d'urgence, le président de la commission d'agrément et de contrôle ter
 ### L622-21
 
 L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2°, 2° bis, 3° et 4° de l'article L. 622-19.
+
+# Article 11
+
+## Avant
+
+### L. 612‑7
+
+L'agrément prévu à l'article L. 612-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités, énumérées par décret en Conseil d'Etat, incompatibles par leur nature avec celles qui sont mentionnées à l'article L. 611-1 ;
+6° Ne pas exercer l'activité d'agent de recherches privées ;
+7° Justifier d'une aptitude professionnelle dans des conditions définies par décret en Conseil d'Etat lorsque ces personnes exercent effectivement les activités mentionnées à l'article L. 611-1 et, lorsqu'elles utilisent un chien dans le cadre de ces activités, de l'obtention d'une qualification professionnelle définie en application de l'article L. 613-7.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+### L. 622‑7
+
+L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un des Etats parties à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ;
+6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+## Aprés
+
+### L. 612‑7
+
+L'agrément prévu à l'article L. 612-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l’objet d’une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour l’un des motifs mentionnés au 1° de l’article L. 612‑20 ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités, énumérées par décret en Conseil d'Etat, incompatibles par leur nature avec celles qui sont mentionnées à l'article L. 611-1 ;
+6° Ne pas exercer l'activité d'agent de recherches privées ;
+7° Justifier d'une aptitude professionnelle dans des conditions définies par décret en Conseil d'Etat lorsque ces personnes exercent effectivement les activités mentionnées à l'article L. 611-1 et, lorsqu'elles utilisent un chien dans le cadre de ces activités, de l'obtention d'une qualification professionnelle définie en application de l'article L. 613-7.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, du bulletin n° 2 du casier judiciaire et des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+### L. 622‑7
+
+L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un des Etats parties à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l’objet d’une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour l’un des motifs mentionnés au 1° de l’article L. 612‑20 ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ;
+6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, du bulletin n° 2 du casier judiciaire et des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+# Article 11 bis
+
+## Avant
+
+### L. 612‑6
+
+Nul ne peut exercer à titre individuel une activité mentionnée à l'article L. 611-1, ni diriger, gérer ou être l'associé d'une personne morale exerçant cette activité, s'il n'est titulaire d'un agrément délivré selon des modalités définies par décret en Conseil d'Etat.
+
+### L. 612‑7
+
+L'agrément prévu à l'article L. 612-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités, énumérées par décret en Conseil d'Etat, incompatibles par leur nature avec celles qui sont mentionnées à l'article L. 611-1 ;
+6° Ne pas exercer l'activité d'agent de recherches privées ;
+7° Justifier d'une aptitude professionnelle dans des conditions définies par décret en Conseil d'Etat lorsque ces personnes exercent effectivement les activités mentionnées à l'article L. 611-1 et, lorsqu'elles utilisent un chien dans le cadre de ces activités, de l'obtention d'une qualification professionnelle définie en application de l'article L. 613-7.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+### L. 612‑16
+
+L'autorisation prévue à l'article L. 612-9 peut être retirée :
+1° A la personne physique qui, titulaire de l'agrément prévu à l'article L. 612-6, ne remplit plus les conditions exigées à l'article L. 612-7 ou dont l'agrément a été retiré ;
+2° A la personne morale ou à l’établissement secondaire qui conserve comme dirigeant ou gérant une personne titulaire de l'agrément mais ne remplissant plus les conditions exigées à l'article L. 612-7, ou une personne dont l'agrément a été retiré ;
+3° A la personne morale dont la direction ou la gestion est exercée en fait par une personne agissant directement ou par personne interposée en lieu et place des représentants légaux ;
+4° A la personne morale dont tout ou partie du capital social est constitué par des fonds apportés directement ou indirectement par l'auteur d'un crime ou d'un délit dans les conditions prévues à l'article 324-1 du code pénal ;
+5° A la personne physique ou morale qui ne se conforme pas aux dispositions du présent titre, à celles du code de l'entrée et du séjour des étrangers et du droit d'asile ou à celles du code du travail.
+Sauf dans le cas prévu au 4°, le retrait ne peut être prononcé qu'après une mise en demeure restée sans effet.
+
+### L. 612-17
+
+Dans les cas prévus aux 1° à 4° de l'article L. 612-16, l'autorisation peut être suspendue pour six mois au plus.
+L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne morale titulaire de l'autorisation prévue à l'article L. 612-9 fait l'objet de poursuites pénales. Il est mis fin à la suspension dès que l'autorité administrative ou la commission régionale d'agrément et de contrôle a connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
+
+### L612-25
+
+Sans préjudice des dispositions prévues par des lois spéciales, l'entreprise dont certains salariés sont chargés, pour son propre compte, d'une activité mentionnée à l'article L. 611-1 n'est pas soumise aux dispositions des articles L. 612-2, L. 612-3, L. 612-6 à L. 612-8 et L. 612-15.
+
+### L. 617‑3
+
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende le fait d'exercer à titre individuel, en violation des dispositions des articles L. 612-6 à L. 612-8, une activité mentionnée à l'article L. 611-1, ou de diriger ou gérer, en violation de ces dispositions, une personne morale exerçant une telle activité, ou d'exercer en fait, directement ou par personne interposée, la direction ou la gestion d'une telle personne morale, en lieu et place de ses représentants légaux.
+
+### L. 617‑3
+
+L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un des Etats parties à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ;
+6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+### L. 622-6
+
+Nul ne peut exercer à titre individuel l'activité mentionnée à l'article L. 621-1, ni diriger, gérer ou être l'associé d'une personne morale exerçant cette activité, s'il n'est titulaire d'un agrément délivré par la commission d'agrément et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat.
+
+### L. 622-7
+
+L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un des Etats parties à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ;
+6° Détenir une qualification professionnelle définie par décret en Conseil d'Etat.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+
+### L. 622-14
+
+L'autorisation prévue à l'article L. 622-9 peut être retirée :
+1° A la personne physique qui, titulaire de l'agrément prévu à l'article L. 622-6, ne remplit plus les conditions exigées à l'article L. 622-7 ou dont l'agrément a été retiré ;
+2° A la personne morale qui conserve comme dirigeant ou gérant une personne titulaire de l'agrément mais ne remplissant plus les conditions exigées à l'article L. 622-7 ou une personne dont l'agrément a été retiré ;
+3° A la personne morale dont la direction ou la gestion est exercée en fait par une personne agissant directement ou par personne interposée en lieu et place des représentants légaux ;
+4° A la personne morale dont tout ou partie du capital social est constitué par des fonds apportés directement ou indirectement par l'auteur d'un crime ou d'un délit dans les conditions prévues à l'article 324-1 du code pénal ;
+5° A la personne physique ou morale dont l'activité porte atteinte à la sécurité publique, à la sûreté de l'Etat ou aux intérêts fondamentaux de la Nation dans les domaines économique, scientifique, industriel ou commercial ;
+6° A la personne physique ou morale qui ne se conforme pas aux dispositions du présent titre, à celles du code de l'entrée et du séjour des étrangers et du droit d'asile ou à celles du code du travail.
+Sauf dans les cas prévus aux 4° et 5°, le retrait ne peut être prononcé qu'après une mise en demeure restée sans effet.
+
+### L. 622‑15
+
+Dans les cas prévus aux 1° à 5° de l'article L. 622-14, l'autorisation peut être suspendue pour six mois au plus.
+L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne morale titulaire de l'autorisation prévue à l'article L. 622-9 fait l'objet de poursuites pénales. Il est mis fin à la suspension dès que l'autorité administrative ou la commission d'agrément et de contrôle territorialement compétente a connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
+
+## Aprés
+
+### L. 612‑6
+
+Nul ne peut exercer à titre individuel une activité mentionnée à l'article L. 611-1, ni diriger, gérer ou être l'associé d'une personne morale exerçant cette activité, s'il n'est titulaire d'un agrément délivré selon des modalités définies par décret en Conseil d'Etat.
+Nul ne peut diriger ou gérer un établissement secondaire autorisé dans les conditions fixées à l’article L. 612‑9 s’il n’est titulaire de l’agrément prévu au premier alinéa du présent article.
+
+### L. 612‑7
+
+L'agrément prévu à l'article L. 612-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités, énumérées par décret en Conseil d'Etat, incompatibles par leur nature avec celles qui sont mentionnées à l'article L. 611-1 ;
+6° Ne pas exercer l'activité d'agent de recherches privées ;
+7° Justifier d'une aptitude professionnelle dans des conditions définies par décret en Conseil d'Etat
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+Lorsque ces personnes exercent effectivement les activités mentionnées à l’article L. 611‑1, elles doivent également être titulaires de la carte professionnelle mentionnée à l’article L. 612‑20.
+
+### L. 612-17
+
+Dans les cas prévus aux 1° à 4° de l'article L. 612-16, l'autorisation peut être suspendue pour six mois au plus.
+L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne morale ou de l’établissement secondaire titulaire de l'autorisation prévue à l'article L. 612-9 fait l'objet de poursuites pénales. Il est mis fin à la suspension dès que l'autorité administrative ou la commission régionale d'agrément et de contrôle a connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
+
+### L612-25
+
+Sans préjudice des dispositions prévues par des lois spéciales, l'entreprise dont certains salariés sont chargés, pour son propre compte, d'une activité mentionnée à l'article L. 611-1 n'est pas soumise aux dispositions des articles L. 612-2, L. 612-3, L. 612-6 à L. 612-8 et L. 612-15.
+Toutefois, nul ne peut diriger ou gérer le service interne de sécurité de la personne morale mentionnée au premier alinéa du présent article s’il n’est pas titulaire de l’agrément mentionné à l’article L. 612‑6.
+
+### L. 617‑3
+
+Est puni de trois d’emprisonnement et de 45 000 euros d’amende :
+
+« 1° Le fait d’exercer à titre individuel, en violation des dispositions des articles L. 612‑6 à L. 612‑8, une activité mentionnée à l’article L. 611‑1 ;
+
+« 2° Le fait de diriger ou gérer, en violation des articles L. 612‑6 à L. 612‑8, une personne morale exerçant une activité mentionnée à l’article L. 611‑1, ou d’exercer en fait, directement ou par personne interposée, la direction ou la gestion d’une telle personne morale, en lieu et place de ses représentants légaux ;
+
+« 3° Le fait de diriger ou gérer, en violation des articles L. 612‑6 à L. 612‑8, un établissement secondaire autorisé à exercer une activité mentionnée à l’article L. 611‑1 dans les conditions prévues à l’article L. 612‑9 ;
+
+« 4° Le fait de diriger ou gérer, en violation de l’article L. 612‑25, le service interne de sécurité d’une personne morale chargé d’une activité mentionnée à l’article L. 611‑1.
+
+
+### L. 622-6
+
+Nul ne peut exercer à titre individuel l'activité mentionnée à l'article L. 621-1, ni diriger, gérer ou être l'associé d'une personne morale exerçant cette activité, s'il n'est titulaire d'un agrément délivré par la commission d'agrément et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat.
+Nul ne peut diriger ou gérer un établissement secondaire autorisé dans les conditions fixées à l’article L. 622‑9 s’il n’est pas titulaire de l’agrément prévu au premier alinéa du présent article.
+
+
+### L. 622-7
+
+L'agrément prévu à l'article L. 622-6 est délivré aux personnes qui satisfont aux conditions suivantes :
+1° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un des Etats parties à l'accord sur l'Espace économique européen ;
+2° Ne pas avoir fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+3° Ne pas avoir fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° Ne pas avoir fait l'objet d'une décision, prononcée sur le fondement des dispositions du chapitre III du titre V du livre VI du code de commerce ou prise en application des textes antérieurs à ce code et ne pas avoir fait l'objet d'une décision de nature équivalente dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5° Ne pas exercer l'une des activités mentionnées à l'article L. 611-1 ;
+6° Justifier d’une aptitude professionnelle dans des conditions définies par décret en Conseil d’État.
+L'agrément ne peut être délivré s'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées.
+Lorsque ces personnes exercent effectivement l’activité mentionnée à l’article L. 621‑1, elles doivent également être titulaires de la carte professionnelle mentionnée à l’article L. 622‑19.
+
+### L. 622-14
+
+L'autorisation prévue à l'article L. 622-9 peut être retirée :
+1° A la personne physique qui, titulaire de l'agrément prévu à l'article L. 622-6, ne remplit plus les conditions exigées à l'article L. 622-7 ou dont l'agrément a été retiré ;
+2° A la personne morale ou à l’établissement secondaire qui conserve comme dirigeant ou gérant une personne titulaire de l'agrément mais ne remplissant plus les conditions exigées à l'article L. 622-7 ou une personne dont l'agrément a été retiré ;
+3° A la personne morale dont la direction ou la gestion est exercée en fait par une personne agissant directement ou par personne interposée en lieu et place des représentants légaux ;
+4° A la personne morale dont tout ou partie du capital social est constitué par des fonds apportés directement ou indirectement par l'auteur d'un crime ou d'un délit dans les conditions prévues à l'article 324-1 du code pénal ;
+5° A la personne physique ou morale dont l'activité porte atteinte à la sécurité publique, à la sûreté de l'Etat ou aux intérêts fondamentaux de la Nation dans les domaines économique, scientifique, industriel ou commercial ;
+6° A la personne physique ou morale qui ne se conforme pas aux dispositions du présent titre, à celles du code de l'entrée et du séjour des étrangers et du droit d'asile ou à celles du code du travail.
+Sauf dans les cas prévus aux 4° et 5°, le retrait ne peut être prononcé qu'après une mise en demeure restée sans effet.
+
+
+### L. 622‑15
+
+Dans les cas prévus aux 1° à 5° de l'article L. 622-14, l'autorisation peut être suspendue pour six mois au plus.
+L'autorisation peut être également suspendue lorsque la personne physique ou l'un des dirigeants ou gérants de la personne morale ou de l’établissement secondaire titulaire de l'autorisation prévue à l'article L. 622-9 fait l'objet de poursuites pénales. Il est mis fin à la suspension dès que l'autorité administrative ou la commission d'agrément et de contrôle territorialement compétente a connaissance d'une décision de l'autorité judiciaire intervenue sur le fond.
+
+### L. 624.4
+
+« Art. L. 624‑4. – Est puni de trois d’emprisonnement et de 45 000 euros d’amende :
+
+« 1° Le fait d’exercer à titre individuel, en violation des dispositions des articles L. 622‑6 à L. 622‑8, l’activité mentionnée à l’article L. 621‑1 ;
+
+« 2° Le fait de diriger ou gérer, en violation des articles L. 622‑6 à L. 622‑8, une personne morale exerçant l’activité mentionnée à l’article L. 621‑1, ou d’exercer en fait, directement ou par personne interposée, la direction ou la gestion d’une telle personne morale, en lieu et place de ses représentants légaux ;
+
+« 3° Le fait de diriger ou gérer, en violation des articles L. 622‑6 à L. 622‑8, un établissement secondaire autorisé à exercer l’activité mentionnée à l’article L. 621‑1 dans les conditions prévues à l’article L. 622‑9. » 
+
+# Article 12
+
+## Avant
+
+### 222-8
+
+L'infraction définie à l'article 222-7 est punie de vingt ans de réclusion criminelle lorsqu'elle est commise :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis et 5° ter (abrogés)
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus de contracter ce mariage ou cette union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou à l’occasion de l’exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme.
+
+La peine encourue est portée à trente ans de réclusion criminelle lorsque l'infraction définie à l'article 222-7 est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.
+
+### 222-10
+
+L'infraction définie à l'article 222-9 est punie de quinze ans de réclusion criminelle lorsqu'elle est commise :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis et 5° ter (abrogés)
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus de contracter ce mariage ou cette union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou à l’occasion de l’exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme.
+
+La peine encourue est portée à vingt ans de réclusion criminelle lorsque l'infraction définie à l'article 222-9 est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.
+
+### 222-12
+
+'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende lorsqu'elle est commise :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis et 5° ter (abrogés)
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la contraindre à contracter un mariage ou à conclure une union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou à l’occasion de l’exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme ;
+
+11° Dans des établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ;
+
+15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée.
+
+Les peines encourues sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsque l'infraction définie à l'article 222-11 est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsque cette infraction est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à dix ans d'emprisonnement et 150 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au présent article lorsqu'elles sont punies de dix ans d'emprisonnement.
+
+### 222-13
+
+Les violences ayant entraîné une incapacité de travail inférieure ou égale à huit jours ou n'ayant entraîné aucune incapacité de travail sont punies de trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'elles sont commises :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4° et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une prétendue race ou une religion déterminée ;
+
+5° ter A raison du sexe, de l'orientation sexuelle ou de l'identité de genre vraie ou supposée de la victime ;
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la contraindre à contracter un mariage ou à conclure une union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou à l’occasion de l’exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme ;
+
+11° Dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ;
+
+15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée.
+
+Les peines encourues sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque l'infraction définie au premier alinéa du présent article est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les peines sont également portées à cinq ans d'emprisonnement et 75 000 euros d'amende lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+
+### 433-3
+
+Est punie de trois ans d'emprisonnement et de 45 000 euros d'amende la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à l'encontre d'une personne investie d'un mandat électif public, d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel, d'un militaire de la gendarmerie nationale, d'un fonctionnaire de la police nationale, des douanes, de l'inspection du travail, de l'administration pénitentiaire ou de toute autre personne dépositaire de l'autorité publique, d'un sapeur-pompier professionnel ou volontaire, d'un gardien assermenté d'immeubles ou de groupes d'immeubles ou d'un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur.
+
+Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à l'encontre d'un agent d'un exploitant de réseau de transport public de voyageurs, d'un enseignant ou de tout membre des personnels travaillant dans les établissements d'enseignement scolaire ou de toute autre personne chargée d'une mission de service public ainsi que d'un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur.
+
+Les mêmes peines sont applicables en cas de menace proférée à l'encontre du conjoint, des ascendants ou des descendants en ligne directe des personnes mentionnées aux deux premiers alinéas ou de toute autre personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes.
+
+La peine est portée à cinq ans d'emprisonnement et 75 000 euros d'amende lorsqu'il s'agit d'une menace de mort ou d'une menace d'atteinte aux biens dangereuse pour les personnes.
+
+Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait d'user de menaces, de violences ou de commettre tout autre acte d'intimidation pour obtenir d'une personne mentionnée au premier ou au deuxième alinéa soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+
+## Aprés
+
+### 222-8
+
+L'infraction définie à l'article 222-7 est punie de vingt ans de réclusion criminelle lorsqu'elle est commise :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l’auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4°, 4° bis A et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis et 5° ter (abrogés)
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus de contracter ce mariage ou cette union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou à l’occasion de l’exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme.
+
+La peine encourue est portée à trente ans de réclusion criminelle lorsque l'infraction définie à l'article 222-7 est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.
+
+### 222-10
+
+L'infraction définie à l'article 222-9 est punie de quinze ans de réclusion criminelle lorsqu'elle est commise :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l’auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4°, 4° bis A et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis et 5° ter (abrogés)
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne afin de la contraindre à contracter un mariage ou à conclure une union ou en raison de son refus de contracter ce mariage ou cette union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+7° bis Par une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou à l’occasion de l’exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme.
+
+La peine encourue est portée à vingt ans de réclusion criminelle lorsque l'infraction définie à l'article 222-9 est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues par le présent article.
+
+### 222-12
+
+'infraction définie à l'article 222-11 est punie de cinq ans d'emprisonnement et de 75 000 euros d'amende lorsqu'elle est commise :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l’auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4°, 4° bis A et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis et 5° ter (abrogés)
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la contraindre à contracter un mariage ou à conclure une union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme ;
+
+11° Dans des établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ;
+
+15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée.
+
+Les peines encourues sont portées à dix ans d'emprisonnement et à 150 000 euros d'amende lorsque l'infraction définie à l'article 222-11 est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsque cette infraction est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à dix ans d'emprisonnement et 150 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+
+Les deux premiers alinéas de l'article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au présent article lorsqu'elles sont punies de dix ans d'emprisonnement.
+
+### 222-13
+
+Les violences ayant entraîné une incapacité de travail inférieure ou égale à huit jours ou n'ayant entraîné aucune incapacité de travail sont punies de trois ans d'emprisonnement et de 45 000 euros d'amende lorsqu'elles sont commises :
+
+1° Sur un mineur de quinze ans ;
+
+2° Sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+
+3° Sur un ascendant légitime ou naturel ou sur les père ou mère adoptifs ;
+
+4° Sur un magistrat, un juré, un avocat, un officier public ou ministériel, un membre ou un agent de la Cour pénale internationale, un militaire de la gendarmerie nationale, un fonctionnaire de la police nationale, des douanes, de l'administration pénitentiaire ou toute autre personne dépositaire de l'autorité publique, un sapeur-pompier professionnel ou volontaire, un gardien assermenté d'immeubles ou de groupes d'immeubles ou un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis Sur un enseignant ou tout membre des personnels travaillant dans les établissements d'enseignement scolaire, sur un agent d'un exploitant de réseau de transport public de voyageurs ou toute personne chargée d'une mission de service public, ainsi que sur un professionnel de santé, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur ;
+
+4° bis A Sur une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l’auteur ;
+
+4° ter Sur le conjoint, les ascendants ou les descendants en ligne directe ou sur toute autre personne vivant habituellement au domicile des personnes mentionnées aux 4°, 4° bis A et 4° bis, en raison des fonctions exercées par ces dernières ;
+
+5° Sur un témoin, une victime ou une partie civile, soit pour l'empêcher de dénoncer les faits, de porter plainte ou de déposer en justice, soit en raison de sa dénonciation ou de sa plainte, soit à cause de sa déposition devant une juridiction nationale ou devant la Cour pénale internationale ;
+
+5° bis A raison de l'appartenance ou de la non-appartenance, vraie ou supposée, de la victime à une ethnie, une nation, une prétendue race ou une religion déterminée ;
+
+5° ter A raison du sexe, de l'orientation sexuelle ou de l'identité de genre vraie ou supposée de la victime ;
+
+5° quater Sur une personne qui se livre à la prostitution, y compris de façon occasionnelle, si les faits sont commis dans l'exercice de cette activité ;
+
+6° Par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ;
+
+6° bis Contre une personne, en raison de son refus de contracter un mariage ou de conclure une union ou afin de la contraindre à contracter un mariage ou à conclure une union ;
+
+7° Par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission ;
+
+8° Par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+
+9° Avec préméditation ou avec guet-apens ;
+
+10° Avec usage ou menace d'une arme ;
+
+11° Dans les établissements d'enseignement ou d'éducation ou dans les locaux de l'administration, ainsi que, lors des entrées ou sorties des élèves ou du public ou dans un temps très voisin de celles-ci, aux abords de ces établissements ou locaux ;
+
+12° Par un majeur agissant avec l'aide ou l'assistance d'un mineur ;
+
+13° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs ;
+
+14° Par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ;
+
+15° Par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée.
+
+Les peines encourues sont portées à cinq ans d'emprisonnement et à 75 000 euros d'amende lorsque l'infraction définie au premier alinéa du présent article est commise :
+
+a) Sur un mineur de quinze ans par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur ;
+
+b) Alors qu'un mineur assiste aux faits et que ceux-ci sont commis par le conjoint ou le concubin de la victime ou le partenaire lié à la victime par un pacte civil de solidarité ou, si la victime est mineure, par un ascendant légitime, naturel ou adoptif ou par toute autre personne ayant autorité sur le mineur victime.
+
+Les peines sont également portées à cinq ans d'emprisonnement et 75 000 euros d'amende lorsque cette infraction, ayant entraîné une incapacité totale de travail inférieure ou égale à huit jours, est commise dans deux des circonstances prévues aux 1° et suivants du présent article. Les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende lorsqu'elle est commise dans trois de ces circonstances.
+
+
+### 433-3
+
+Est punie de trois ans d'emprisonnement et de 45 000 euros d'amende la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à l'encontre d'une personne investie d'un mandat électif public, d'un magistrat, d'un juré, d'un avocat, d'un officier public ou ministériel, d'un militaire de la gendarmerie nationale, d'un fonctionnaire de la police nationale, des douanes, de l'inspection du travail, de l'administration pénitentiaire ou de toute autre personne dépositaire de l'autorité publique, d'un sapeur-pompier professionnel ou volontaire, d'un gardien assermenté d'immeubles ou de groupes d'immeubles ou d'un agent exerçant pour le compte d'un bailleur des fonctions de gardiennage ou de surveillance des immeubles à usage d'habitation en application de l'article L. 127-1 du code de la construction et de l'habitation, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur.
+
+Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à l'encontre d'un agent d'un exploitant de réseau de transport public de voyageurs, d'un enseignant ou de tout membre des personnels travaillant dans les établissements d'enseignement scolaire ou de toute autre personne chargée d'une mission de service public ainsi que d'un professionnel de santé, dans l'exercice de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l'auteur.
+
+Est punie des mêmes peines la menace de commettre un crime ou un délit contre les personnes ou les biens proférée à l’encontre d’une personne exerçant une activité privée de sécurité mentionnée aux articles L. 611‑1 ou L. 621‑1 du code de la sécurité intérieure dans l’exercice de ses fonctions, lorsque la qualité de la victime est apparente ou connue de l’auteur.
+
+Les mêmes peines sont applicables en cas de menace proférée à l'encontre du conjoint, des ascendants ou des descendants en ligne directe des personnes mentionnées aux trois premiers alinéas ou de toute autre personne vivant habituellement à leur domicile, en raison des fonctions exercées par ces personnes.
+
+La peine est portée à cinq ans d'emprisonnement et 75 000 euros d'amende lorsqu'il s'agit d'une menace de mort ou d'une menace d'atteinte aux biens dangereuse pour les personnes.
+
+Est puni de dix ans d'emprisonnement et de 150 000 euros d'amende le fait d'user de menaces, de violences ou de commettre tout autre acte d'intimidation pour obtenir d'une personne mentionnée aux trois premiers alinéas soit qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction, de sa mission ou de son mandat, ou facilité par sa fonction, sa mission ou son mandat, soit qu'elle abuse de son autorité vraie ou supposée en vue de faire obtenir d'une autorité ou d'une administration publique des distinctions, des emplois, des marchés ou toute autre décision favorable.
+
+# Article 13
+
+## Avant
+
+### 613-4
+
+Les agents exerçant une activité mentionnée au 1° de l'article L. 611-1 doivent porter, dans l'exercice de leurs fonctions, une tenue particulière. Celle-ci ne doit entraîner aucune confusion avec les tenues des agents des services publics, notamment de la police nationale, de la gendarmerie nationale, des douanes et des polices municipales.
+
+### 613-8
+
+Sauf dérogations pour certaines modalités de transport de fonds, de bijoux ou de métaux précieux définies par décret en Conseil d'Etat, les agents exerçant une activité mentionnée au 2° de l'article L. 611-1 doivent porter, dans l'exercice de leurs fonctions, une tenue particulière. Celle-ci ne doit entraîner aucune confusion avec les tenues des agents des services publics, notamment de la police nationale, de la gendarmerie nationale, des douanes et des polices municipales.
+
+### 614-3
+
+Les agents des personnes morales prévues à l'article L. 614-1 doivent être identifiables. La tenue et la carte professionnelle, dont ils sont obligatoirement porteurs dans l'exercice de leurs fonctions, ne doivent entraîner aucune confusion avec celles des autres agents des services publics, notamment des services de police.
+Dans des cas exceptionnels définis par décret en Conseil d'Etat, ils peuvent être dispensés du port de la tenue.
+
+## Aprés
+
+### 613-4
+
+Les agents exerçant une activité mentionnée au 1° de l'article L. 611-1 doivent porter, dans l'exercice de leurs fonctions, une tenue particulière comprenant un ou plusieurs éléments d’identification communs, selon des modalités déterminées par arrêté du ministre de l’intérieur. Celle-ci ne doit entraîner aucune confusion avec les tenues des agents des services publics, notamment de la police nationale, de la gendarmerie nationale, des douanes et des polices municipales.
+
+### 613-8
+
+Sauf dérogations pour certaines modalités de transport de fonds, de bijoux ou de métaux précieux définies par décret en Conseil d'Etat, les agents exerçant une activité mentionnée au 2° de l'article L. 611-1 doivent porter, dans l'exercice de leurs fonctions, une tenue particulière comprenant un ou plusieurs éléments d’identification communs, selon des modalités déterminées par arrêté du ministre de l’intérieur. Celle-ci ne doit entraîner aucune confusion avec les tenues des agents des services publics, notamment de la police nationale, de la gendarmerie nationale, des douanes et des polices municipales.
+
+### 614-3
+
+Les agents des personnes morales prévues à l'article L. 614-1 doivent être identifiables. La tenue et la carte professionnelle, dont ils sont obligatoirement porteurs dans l'exercice de leurs fonctions, ne doivent entraîner aucune confusion avec celles des autres agents des services publics, notamment des services de police. La tenue comprend un ou plusieurs éléments d’identification communs, selon des modalités déterminées par arrêté du ministre de l’intérieur.
+Dans des cas exceptionnels définis par décret en Conseil d'Etat, ils peuvent être dispensés du port de la tenue.
+
+# Article 13 bis
+
+## Avant
+
+### 614-3
+
+Les agents des personnes morales prévues à l'article L. 614-1 doivent être identifiables. La tenue et la carte professionnelle, dont ils sont obligatoirement porteurs dans l'exercice de leurs fonctions, ne doivent entraîner aucune confusion avec celles des autres agents des services publics, notamment des services de police.
+Dans des cas exceptionnels définis par décret en Conseil d'Etat, ils peuvent être dispensés du port de la tenue. 
+
+## Aprés
+
+### 614-3
+
+Les agents des personnes morales prévues à l'article L. 614-1 doivent être identifiables. La tenue et la carte professionnelle, dont ils sont obligatoirement porteurs dans l'exercice de leurs fonctions, ne doivent entraîner aucune confusion avec celles des autres agents des services publics, notamment des services de police.
+Dans des cas exceptionnels définis par décret en Conseil d'Etat, ils peuvent être dispensés du port de la tenue. Parmi ces cas exceptionnels figure l’activité de protection des personnes. 
+
+# Article 14
+
+## Avant
+
+### 613-1
+
+Les agents exerçant une activité mentionnée au 1° de l'article L. 611-1 ne peuvent exercer leurs fonctions qu'à l'intérieur des bâtiments ou dans la limite des lieux dont ils ont la garde, y compris dans les périmètres de protection institués en application de l'article L. 226-1.
+
+
+A titre exceptionnel, ils peuvent être autorisés, par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police, à exercer sur la voie publique des missions, même itinérantes, de surveillance contre les vols, dégradations et effractions visant les biens dont ils ont la garde.
+
+## Aprés
+
+### 613-1
+
+Les agents exerçant une activité mentionnée au 1° de l'article L. 611-1 ne peuvent exercer leurs fonctions qu'à l'intérieur des bâtiments ou dans la limite des lieux dont ils ont la garde, y compris dans les périmètres de protection institués en application de l'article L. 226-1.
+
+
+A titre exceptionnel, ils peuvent être autorisés, par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police, à exercer sur la voie publique des missions, même itinérantes, de surveillance contre les vols, dégradations, effractions et actes de terrorisme dvisant les biens dont ils ont la garde.
+
+# Article 16 bis
+
+## Avant
+
+### 622-19
+
+Nul ne peut être employé pour participer à l'activité mentionnée à l'article L. 621-1 :
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national, après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, par le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat.
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission d'agrément et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat. La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°.
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### 622-20
+
+Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 622-19, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 1° à 5° de cet article est rompu de plein droit.
+Cette rupture ouvre droit au versement, par l'employeur, de l'indemnité légale de licenciement dans les conditions prévues à l'article L. 1234-9 du code du travail, sauf dispositions conventionnelles plus favorables.
+Le salarié a également droit au revenu de remplacement dans les conditions prévues à l'article L. 5421-1 de ce code.
+
+## Aprés
+
+### 622-19
+
+Nul ne peut être employé pour participer à l'activité mentionnée à l'article L. 621-1 :
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+2° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national, après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+4° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat dans le département, ou, à Paris, par le préfet de police, et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat.
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée par la commission d'agrément et de contrôle territorialement compétente selon des modalités définies par décret en Conseil d'Etat. La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 4° ou 5°.
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat dans le département, ou, à Paris, le préfet de police, peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### 622-20
+
+Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 622-19, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 1° à 5° de cet article est rompu de plein droit.
+Cette rupture ouvre droit au versement, par l'employeur, de l'indemnité légale de licenciement dans les conditions prévues à l'article L. 1234-9 du code du travail, sauf dispositions conventionnelles plus favorables.
+Le salarié a également droit au revenu de remplacement dans les conditions prévues à l'article L. 5421-1 de ce code.
