@@ -1535,4 +1535,318 @@ Lorsque l'agent est employé par un établissement public de coopération interc
 
 Les projets d'équipements des polices municipales en caméras individuelles sont éligibles au fonds interministériel pour la prévention de la délinquance défini à l'article 5 de la loi n° 2007-297 du 5 mars 2007 relative à la prévention de la délinquance.
 
-Les modalités d'application du présent article, notamment les informations transmises au ministère de l’intérieur par les communes mettant en œuvre des caméras individuelles, et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat, pris après avis publié et motivé de la Commission nationale de l'informatique et des libertés.
+Les modalités d'application du présent article, notamment les informations transmises au ministère de l’intérieur par les communes mettant en œuvre des caméras individuelles,s et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat, pris après avis publié et motivé de la Commission nationale de l'informatique et des libertés.
+
+# Article 27
+
+## Avant
+
+### titre section
+
+Adjoints de sécurité
+
+### 411-5
+
+Pour développer des activités répondant à des besoins non satisfaits, l'Etat peut faire appel à des agents âgés de dix-huit à moins de trente ans, recrutés en qualité de contractuels de droit public pour une période de trois ans, renouvelable une fois par reconduction expresse, afin d'exercer des missions d'adjoints de sécurité auprès des fonctionnaires des services actifs de la police nationale.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il définit notamment les missions des adjoints de sécurité ainsi que les conditions d'évaluation des activités concernées.
+
+### 411-6
+
+Pour l'exercice des missions mentionnées à l'article L. 411-5, l'Etat peut conclure avec les agents mentionnés au premier alinéa de cet article des contrats d'accompagnement dans l'emploi dans les conditions fixées à l'article L. 5134-20 du code du travail. La durée de la convention et du contrat prévus au même article est limitée à vingt-quatre mois. Par dérogation à l'article L. 5134-24 du même code, les bénéficiaires sont recrutés en qualité de contractuels de droit public.
+Au terme du contrat d'accompagnement dans l'emploi, les agents ainsi recrutés poursuivent leur mission d'adjoint de sécurité pour une durée d'un an. Ils peuvent bénéficier du renouvellement du contrat leur permettant d'exercer ces missions dans les conditions prévues au premier alinéa sans que la durée cumulée d'exercice de ces missions n'excède six ans.
+
+## Aprés
+
+### titre section
+
+Policiers adjoints
+
+### 411-5
+
+Pour développer des activités répondant à des besoins non satisfaits, l'Etat peut faire appel à des agents âgés de dix-huit à moins de trente ans, recrutés en qualité de contractuels de droit public pour une période de trois ans, renouvelable une fois par reconduction expresse, afin d'exercer des missions de policiers adjoints auprès des fonctionnaires des services actifs de la police nationale.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il définit notamment les missions des policiers adjoints ainsi que les conditions d'évaluation des activités concernées.
+
+### 411-6
+
+Pour l'exercice des missions mentionnées à l'article L. 411-5, l'Etat peut conclure avec les agents mentionnés au premier alinéa de cet article des contrats d'accompagnement dans l'emploi dans les conditions fixées à l'article L. 5134-20 du code du travail. La durée de la convention et du contrat prévus au même article est limitée à vingt-quatre mois. Par dérogation à l'article L. 5134-24 du même code, les bénéficiaires sont recrutés en qualité de contractuels de droit public.
+Au terme du contrat d'accompagnement dans l'emploi, les agents ainsi recrutés poursuivent leur mission de policier adjoints pour une durée d'un an. Ils peuvent bénéficier du renouvellement du contrat leur permettant d'exercer ces missions dans les conditions prévues au premier alinéa sans que la durée cumulée d'exercice de ces missions n'excède six ans.
+
+### loi
+
+II. – Au 1° ter de l’article 21 du code de procédure pénale et au premier alinéa du II de l’article 36 de la loi n° 95‑73 du 21 janvier 1995 d’orientation et de programmation relative à la sécurité, les mots : « adjoints de sécurité » sont remplacés par les mots : « policiers adjoints ». 
+
+# Article 27 bis
+
+## Avant
+
+Pour les contraventions que les agents de la police municipale sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 511-1 et L. 512-2 du code de la sécurité intérieure et qui sont commises au préjudice de la commune au titre de l'un de ses biens, le maire peut, tant que l'action publique n'a pas été mise en mouvement, proposer au contrevenant une transaction consistant en la réparation de ce préjudice.
+
+La transaction proposée par le maire et acceptée par le contrevenant doit être homologuée par le procureur de la République.
+
+Les actes tendant à la mise en oeuvre ou à l'exécution de la transaction sont interruptifs de la prescription de l'action publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour lui de l'acceptation de la transaction.
+
+La transaction peut également consister en l'exécution, au profit de la commune, d'un travail non rémunéré pendant une durée maximale de trente heures. Elle doit alors être homologuée, selon la nature de la contravention, par le juge compétent du tribunal de police.
+
+Lorsqu'une de ces contraventions n'a pas été commise au préjudice de la commune mais a été commise sur le territoire de celle-ci, le maire peut proposer au procureur de la République de procéder à une des mesures prévues par les articles 41-1 ou 41-3 du présent code. Il est avisé par le procureur de la République de la suite réservée à sa proposition.
+
+Les dispositions du présent article s'appliquent aux contraventions de même nature que les agents de la ville de Paris chargés d'un service de police et les agents de surveillance de Paris sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 531-1 et L. 532-1 du code de la sécurité intérieure. Ces dispositions s'appliquent également aux contraventions de même nature que les gardes champêtres sont habilités à constater par procès-verbal conformément à l'article L. 521-1 du code de la sécurité intérieure.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+## Aprés
+
+Pour les contraventions que les agents de la police municipale sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 511-1 et L. 512-2 du code de la sécurité intérieure et qui sont commises au préjudice de la commune au titre de l'un de ses biens, le maire peut, tant que l'action publique n'a pas été mise en mouvement, proposer au contrevenant une transaction consistant en la réparation de ce préjudice.
+
+La transaction proposée par le maire et acceptée par le contrevenant doit être homologuée par le procureur de la République.
+
+Les actes tendant à la mise en oeuvre ou à l'exécution de la transaction sont interruptifs de la prescription de l'action publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour lui de l'acceptation de la transaction.
+
+La transaction peut également consister en l'exécution, au profit de la commune, d'un travail non rémunéré pendant une durée maximale de trente heures. Elle doit alors être homologuée, selon la nature de la contravention, par le juge compétent du tribunal de police.
+
+Lorsqu'une de ces contraventions n'a pas été commise au préjudice de la commune mais a été commise sur le territoire de celle-ci, le maire peut proposer au procureur de la République de procéder à une des mesures prévues par les articles 41-1 ou 41-3 du présent code. Il est avisé par le procureur de la République de la suite réservée à sa proposition.
+
+Les dispositions du présent article s'appliquent aux contraventions de même nature que les agents de la ville de Paris chargés d'un service de police et les agents de surveillance de Paris sont habilités à constater par procès-verbal conformément aux dispositions des articles L. 531-1 et L. 532-1 du code de la sécurité intérieure. Ces dispositions s'appliquent également aux contraventions de même nature que les gardes champêtres sont habilités à constater par procès-verbal conformément à l'article L. 521-1 du code de la sécurité intérieure.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+# Article 27 bis (invalide)
+
+## Avant
+
+## Aprés
+
+# Article 28 (1° invalide)
+
+## Avant
+
+Le service interne de sécurité de la SNCF réalise cette mission au profit de SNCF Réseau, de SNCF Mobilités et de l'ensemble des autres entreprises ferroviaires utilisatrices du réseau ferré national ainsi que de leurs personnels, à leur demande et dans un cadre formalisé.
+
+Cette mission s'exerce dans les emprises immobilières nécessaires à l'exploitation des services de transport ferroviaire de personnes et de marchandises et dans les véhicules de transport public de personnes qui y sont affectés.
+
+La SNCF publie chaque année un document de référence et de tarification des prestations de sûreté. L'Autorité de régulation des activités ferroviaires émet un avis conforme sur la tarification de ces prestations. L'exécution de ces prestations s'effectue dans des conditions transparentes, équitables et sans discrimination entre les entreprises ferroviaires.
+
+Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+## Aprés
+
+Le service interne de sécurité de la SNCF réalise cette mission au profit de SNCF Réseau, de SNCF Mobilités et de l'ensemble des autres entreprises ferroviaires utilisatrices du réseau ferré national ainsi que de leurs personnels, à leur demande et dans un cadre formalisé.
+
+Cette mission s'exerce dans les emprises immobilières nécessaires à l'exploitation des services de transport ferroviaire et routier pour les services organisés en application du 2° de l’article L. 2121‑3 de personnes et de marchandises et dans les véhicules de transport public de personnes qui y sont affectés.
+
+La SNCF publie chaque année un document de référence et de tarification des prestations de sûreté. L'Autorité de régulation des activités ferroviaires émet un avis conforme sur la tarification de ces prestations. L'exécution de ces prestations s'effectue dans des conditions transparentes, équitables et sans discrimination entre les entreprises ferroviaires.
+
+Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+# Article 28 ter
+
+## Avant
+
+La transmission aux forces de l'ordre des images réalisées en vue de la protection des véhicules et emprises immobilières des transports publics de voyageurs lors de circonstances faisant redouter la commission imminente d'une atteinte grave aux biens ou aux personnes est autorisée sur décision conjointe de l'autorité organisatrice de transport et de l'exploitant de service de transport. Les images susceptibles d'être transmises ne doivent concerner ni l'entrée des habitations privées ni la voie publique.
+
+Cette transmission s'effectue en temps réel et est strictement limitée au temps nécessaire à l'intervention des services de la police ou de la gendarmerie nationales ou, le cas échéant, des agents de la police municipale.
+
+Une convention préalablement conclue entre l'autorité organisatrice de transport et l'exploitant de service de transport concernés et le représentant de l'Etat dans le département précise les conditions et modalités de ce transfert. Cette convention prévoit l'information par affichage sur place de l'existence du système de prise d'images et de la possibilité de leur transmission aux forces de l'ordre.
+
+Lorsque la convention a pour objet de permettre la transmission des images aux services de police municipale, elle est en outre signée par le maire.
+
+Cette convention est transmise à la commission départementale de vidéoprotection mentionnée à l' article L. 251-4 du code de la sécurité intérieure qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'Etat dans le département.
+
+Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Les compétences dévolues au représentant de l'Etat dans le département par le présent article sont exercées, dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ainsi que dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône. 
+
+## Aprés
+
+La transmission aux forces de l'ordre des images réalisées en vue de la protection des véhicules et emprises immobilières des transports publics de voyageurs est autorisée sur décision conjointe de l'autorité organisatrice de transport et de l'exploitant de service de transport. Les images susceptibles d'être transmises ne doivent concerner ni l'entrée des habitations privées ni la voie publique.
+
+Cette transmission peut s’effectuer en temps réel
+
+Une convention préalablement conclue entre l'autorité organisatrice de transport et l'exploitant de service de transport concernés et le représentant de l'Etat dans le département précise les conditions et modalités de ce transfert. Cette convention prévoit l'information par affichage sur place de l'existence du système de prise d'images et de la possibilité de leur transmission aux forces de l'ordre.
+
+Lorsque la convention a pour objet de permettre la transmission des images aux services de police municipale, elle est en outre signée par le maire.
+
+Cette convention est transmise à la commission départementale de vidéoprotection mentionnée à l' article L. 251-4 du code de la sécurité intérieure qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'Etat dans le département.
+
+Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Les compétences dévolues au représentant de l'Etat dans le département par le présent article sont exercées, dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ainsi que dans les transports en commun de voyageurs par voie ferrée de la région d'Ile-de-France, par le préfet de police et, dans le département des Bouches-du-Rhône, par le préfet de police des Bouches-du-Rhône. 
+
+# Article 28 quater
+
+## Avant
+
+I.-Après l'article L. 2251-4 du code des transports, il est inséré un article L. 2251-4-1 ainsi rédigé :
+
+
+« Art. L. 2251-4-1.-Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens, les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens peuvent procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+« L'enregistrement n'est pas permanent.
+« Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves ainsi que la formation et la pédagogie des agents.
+« Les caméras sont portées de façon apparente par les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes enregistrées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre chargé des transports. Les personnels auxquels les caméras individuelles sont fournies ne peuvent avoir accès directement aux enregistrements auxquels ils procèdent.
+« L'enregistrement ne peut avoir lieu hors des emprises immobilières nécessaires à l'exploitation des services de transport ou des véhicules de transport public de personnes qui y sont affectés.
+« Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois.
+« Les articles L. 252-1, L. 252-2, L. 253-1, L. 253-2 et L. 253-5 du code de la sécurité intérieure sont applicables.
+« Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. »
+
+
+II.-Le I est applicable à compter du 1er janvier 2017, pour une durée de trois ans.
+III.-L'expérimentation fait l'objet d'un bilan de sa mise en œuvre dans les deux ans suivant son entrée en vigueur, afin d'évaluer l'opportunité du maintien de cette mesure.
+
+## Aprés
+
+I.-Après l'article L. 2251-4 du code des transports, il est inséré un article L. 2251-4-1 ainsi rédigé :
+
+
+« Art. L. 2251-4-1.-Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens, les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens peuvent procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+« L'enregistrement n'est pas permanent.
+« Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves ainsi que la formation et la pédagogie des agents.
+« Les caméras sont portées de façon apparente par les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes enregistrées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre chargé des transports. Les personnels auxquels les caméras individuelles sont fournies ne peuvent avoir accès directement aux enregistrements auxquels ils procèdent.
+« L'enregistrement ne peut avoir lieu hors des emprises immobilières nécessaires à l'exploitation des services de transport ou des véhicules de transport public de personnes qui y sont affectés.
+« Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois.
+« Les articles L. 252-1, L. 252-2, L. 253-1, L. 253-2 et L. 253-5 du code de la sécurité intérieure sont applicables.
+« Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. »
+
+# Article 29
+
+## Avant
+
+### 234-3
+
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents et, sur l'ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré l'auteur présumé d'une infraction punie par le présent code de la peine complémentaire de suspension du permis de conduire ou le conducteur ou l'accompagnateur de l'élève conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel.
+
+Ils peuvent soumettre aux mêmes épreuves tout conducteur ou tout accompagnateur d'élève conducteur impliqué dans un accident quelconque de la circulation ou auteur présumé de l'une des infractions aux prescriptions du présent code autres que celles mentionnées au premier alinéa.
+
+### 234-4
+
+Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le conducteur ou l'accompagnateur de l'élève conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique.
+
+Lorsque la constatation est faite par un agent de police judiciaire mentionné au 1° bis, 1° ter, 1° quater ou 2° de l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée.
+
+Les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil soit conforme à un type homologué. A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour effectuer une prise de sang.
+
+### 234-9
+
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soit sur l'instruction du procureur de la République, soit à leur initiative et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré.
+
+Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, mentionné aux articles L. 234-4 et L. 234-5 et dans les conditions prévues par ces mêmes articles.
+
+En cas d'impossibilité de subir ces épreuves résultant d'une incapacité physique attestée par le médecin requis, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen d'analyses ou examens médicaux, cliniques ou biologiques, dans les conditions prévues par les articles L. 234-4 et L. 234-5.
+
+Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné aux 1° bis,1° ter,1° quater ou 2° de l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage dans les conditions prévues à l'article L. 234-4 du présent code.
+
+## Aprés
+
+### 234-3
+
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soumettent à des vérifications destinées à établir l’état alcoolique, qui peuvent être précédées des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré l'auteur présumé d'une infraction punie par le présent code de la peine complémentaire de suspension du permis de conduire ou le conducteur ou l'accompagnateur de l'élève conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel. Sur l’ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l’imprégnation alcoolique par l’air expiré l’auteur présumé d’une infraction punie par le présent code de la peine complémentaire de suspension du permis de conduire ou le conducteur ou l’accompagnateur de l’élève conducteur impliqué dans un accident de la circulation ayant occasionné un dommage corporel.
+
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents et, sur l’ordre et sous la responsabilité desdits officiers de police judiciaire, les agents de police judiciaires adjoints peuvent soumettre aux mêmes épreuves tout conducteur ou tout accompagnateur d'élève conducteur impliqué dans un accident quelconque de la circulation ou auteur présumé de l'une des infractions aux prescriptions du présent code autres que celles mentionnées au premier alinéa.
+
+### 234-4
+
+Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le conducteur ou l'accompagnateur de l'élève conducteur refuse de les subir ou en cas d’impossibilité de les subir résultant d’une incapacité physique attestée par le médecin requis, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique.
+
+Lorsque la constatation est faite par un agent de police judiciaire mentionné au 1° bis, 1° ter, 1° quater ou 2° de l'article 21 du code de procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage ou de l’impossibilité de les subir résultant d’une incapacité physique attestée par le médecin requis à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée.
+
+Les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses ou examens médicaux, cliniques ou biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil soit conforme à un type homologué. A cette fin, l'officier ou l'agent de police judiciaire peut requérir un médecin, un interne en médecine, un étudiant en médecine autorisé à exercer la médecine à titre de remplaçant ou un infirmier pour effectuer une prise de sang.
+
+### 234-9
+
+Les officiers ou agents de police judiciaire de la gendarmerie ou de la police nationales territorialement compétents soit sur l'instruction du procureur de la République, soit à leur initiative peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des vérifications destinées à établir l’état alcoolique, qui peuvent être précédées des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. Sur l’ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire adjoints peuvent, même en l’absence d’infraction préalable ou d’accident, soumettre toute personne qui conduit un véhicule ou qui accompagne un élève conducteur à des épreuves de dépistage de l’imprégnation alcoolique par l’air expiré.
+
+# Article 29 bis
+
+## Avant
+
+### L130-4
+
+Sans préjudice de la compétence générale des officiers et des agents de police judiciaire, ont compétence pour constater par procès-verbal les contraventions prévues par la partie Réglementaire du présent code ou par d'autres dispositions réglementaires, dans la mesure où elles se rattachent à la sécurité et à la circulation routières :
+
+1° Les personnels de l'Office national des forêts ;
+
+2° Les gardes champêtres des communes ;
+
+3° Les agents titulaires ou contractuels de l'Etat et les agents des communes, titulaires ou non, chargés de la surveillance de la voie publique, agréés par le procureur de la République ;
+
+4° Les agents, agréés par le procureur de la République, de ceux des services publics urbains de transport en commun de voyageurs qui figurent sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat ;
+
+5° Les officiers de port et les officiers de port adjoints ;
+
+6° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports ;
+
+7° Les agents des douanes ;
+
+8° Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, agréés par le préfet de l'un des départements traversés par le réseau confié à l'exploitant qui les emploie ;
+
+9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la voirie routière ;
+
+10° Les agents des exploitants d'aérodromes, assermentés et agréés par le préfet pour les seules contraventions aux règles de stationnement dans l'emprise de l'aérodrome ;
+
+11° Les agents de police judiciaire adjoints ;
+
+12° Les fonctionnaires ou agents de l'Etat, chargés des réceptions des véhicules ou éléments de véhicules, placés sous l'autorité des ministres chargés de l'industrie et des transports ;
+
+13° Les agents des exploitants de parcs publics de stationnement situés sur le domaine public ferroviaire, assermentés et agréés par le représentant de l'Etat dans le département, pour les seules contraventions aux règles concernant la circulation, l'arrêt et le stationnement des véhicules dans l'emprise du parc public ;
+
+14° Les agents de l'établissement public Paris La Défense, dans les conditions prévues à l'article L. 328-4 du code de l'urbanisme.
+
+La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus est habilitée à constater est fixée par décret en Conseil d'Etat.
+
+## Aprés
+
+### L130-4
+
+Sans préjudice de la compétence générale des officiers et des agents de police judiciaire, ont compétence pour constater par procès-verbal les contraventions prévues par la partie Réglementaire du présent code ou par d'autres dispositions réglementaires, dans la mesure où elles se rattachent à la sécurité et à la circulation routières :
+
+1° Les personnels de l'Office national des forêts ;
+
+2° Les gardes champêtres des communes ;
+
+3° Les agents titulaires ou contractuels de l'Etat et les agents des communes, titulaires ou non, chargés de la surveillance de la voie publique, agréés par le procureur de la République ;
+
+4° Les agents, agréés par le procureur de la République, de ceux des services publics urbains de transport en commun de voyageurs qui figurent sur une liste dressée dans des conditions fixées par décret en Conseil d'Etat ;
+
+5° Les officiers de port et les officiers de port adjoints ;
+
+6° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports ;
+
+7° Les agents des douanes ;
+
+8° Les agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, agréés par le préfet de l'un des départements traversés par le réseau confié à l'exploitant qui les emploie ;
+
+9° Les agents verbalisateurs mentionnés à l'article L. 116-2 du code de la voirie routière ;
+
+10° Les agents des exploitants d'aérodromes, assermentés et agréés par le préfet pour les seules contraventions aux règles de stationnement dans l'emprise de l'aérodrome ;
+
+11° Les agents de police judiciaire adjoints ;
+
+12° Les fonctionnaires ou agents de l'Etat, chargés des réceptions des véhicules ou éléments de véhicules, placés sous l'autorité des ministres chargés de l'industrie et des transports ;
+
+13° Les agents des exploitants de parcs publics de stationnement situés sur le domaine public ferroviaire, assermentés et agréés par le représentant de l'Etat dans le département, pour les seules contraventions aux règles concernant la circulation, l'arrêt et le stationnement des véhicules dans l'emprise du parc public ;
+
+14° Les agents de l'établissement public Paris La Défense, dans les conditions prévues à l'article L. 328-4 du code de l'urbanisme.
+
+15° Les gardes particuliers assermentés, sur les propriétés pour lesquelles ils sont commissionnés et agréés, notamment pour les contraventions aux règles de circulation et de stationnement.
+
+La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus est habilitée à constater est fixée par décret en Conseil d'Etat.
+
+# Article 30 bis
+
+## Avant
+
+Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de l'Etat, des compétences d'action sociale confiées au département et des compétences des collectivités publiques, des établissements et des organismes intéressés, le maire anime, sur le territoire de la commune, la politique de prévention de la délinquance et en coordonne la mise en œuvre. A cette fin, il peut convenir avec l'Etat ou les autres personnes morales intéressées des modalités nécessaires à la mise en œuvre des actions de prévention de la délinquance.
+
+
+Dans les communes de plus de 10 000 habitants et dans les communes comprenant un quartier prioritaire de la politique de la ville, le maire ou son représentant désigné dans les conditions prévues à l'article L. 2122-18 du code général des collectivités territoriales préside un conseil local de sécurité et de prévention de la délinquance. Lorsque, en application de l'article L. 132-13, il est créé un conseil intercommunal de sécurité et de prévention de la délinquance, la mise en place par les communes membres de l'établissement public de coopération intercommunale d'un conseil local de sécurité et de prévention de la délinquance est facultative.
+
+## Aprés
+
+Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de l'Etat, des compétences d'action sociale confiées au département et des compétences des collectivités publiques, des établissements et des organismes intéressés, le maire anime, sur le territoire de la commune, la politique de prévention de la délinquance et en coordonne la mise en œuvre. A cette fin, il peut convenir avec l'Etat ou les autres personnes morales intéressées des modalités nécessaires à la mise en œuvre des actions de prévention de la délinquance.
+
+
+Dans les communes de plus de 5 000 habitants et dans les communes comprenant un quartier prioritaire de la politique de la ville, le maire ou son représentant désigné dans les conditions prévues à l'article L. 2122-18 du code général des collectivités territoriales préside un conseil local de sécurité et de prévention de la délinquance. Lorsque, en application de l'article L. 132-13, il est créé un conseil intercommunal de sécurité et de prévention de la délinquance, la mise en place par les communes membres de l'établissement public de coopération intercommunale d'un conseil local de sécurité et de prévention de la délinquance est facultative.
+
+Dans les communes de plus de 10 000 habitants, un agent public territorial est chargé du suivi, de l’animation et de la coordination des travaux du conseil local de sécurité et de prévention de la délinquance.
