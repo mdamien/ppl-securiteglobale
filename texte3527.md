@@ -1212,3 +1212,327 @@ En cas d'urgence, le président de la commission d'agrément et de contrôle ter
 Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 622-19, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 1° à 5° de cet article est rompu de plein droit.
 Cette rupture ouvre droit au versement, par l'employeur, de l'indemnité légale de licenciement dans les conditions prévues à l'article L. 1234-9 du code du travail, sauf dispositions conventionnelles plus favorables.
 Le salarié a également droit au revenu de remplacement dans les conditions prévues à l'article L. 5421-1 de ce code.
+
+# Article 17
+
+## Avant
+
+### 612-22
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2° et 3° de l'article L. 612-20.
+
+### 612-21
+
+Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 612-20, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 1° à 3° de cet article est rompu de plein droit.
+Cette rupture ouvre droit au versement, par l'employeur, de l'indemnité légale de licenciement dans les conditions prévues à l'article L. 1234-9 du code du travail, sauf dispositions conventionnelles plus favorables.
+Le salarié a également droit au revenu de remplacement dans les conditions prévues à l'article L. 5421-1 de ce code.
+
+## Aprés
+
+### 612‑22
+
+L'accès à une formation en vue d'acquérir l'aptitude professionnelle est soumis à la délivrance d'une autorisation préalable, fondée sur le respect des conditions fixées aux 1°, 2° et 3° de l'article L. 612-20.
+
+« Les ressortissants d’un État membre de l’Union européenne ou d’un État partie à l’accord sur l’Espace économique européen et les ressortissants de pays tiers doivent également justifier d’une connaissance de la langue française suffisante pour l’exercice d’une activité privée de sécurité mentionnée à l’article L. 611‑1, selon les modalités définies par décret en Conseil d’État.
+
+« Pour l’accès à une formation en vue d’acquérir l’aptitude professionnelle à exercer les activités qui relèvent de l’article L. 6342‑4 du code des transports et dont l’exercice requiert une certification au titre du règlement d’exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l’aviation civile ou l’accès à une formation à l’activité mentionnée au 1° bis de l’article L. 611‑1 du présent code exercée dans les conditions prévues au III de l’article R. 613‑3, l’autorisation préalable mentionnée au premier alinéa du présent article est en outre subordonnée à la production d’une lettre d’intention d’embauche se rapportant à l’une de ces activités, émise par une entreprise titulaire de l’autorisation d’exercice mentionnée à l’article L. 612‑9 ou par la personne morale mentionnée à l’article L. 612‑25 et exerçant ces activités. » ; 
+
+### 612-21
+
+Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article L. 612-20, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 1° à 3° de cet article est rompu de plein droit.
+Cette rupture ouvre droit au versement, par l'employeur, de l'indemnité légale de licenciement dans les conditions prévues à l'article L. 1234-9 du code du travail, sauf dispositions conventionnelles plus favorables.
+Le salarié a également droit au revenu de remplacement dans les conditions prévues à l'article L. 5421-1 de ce code.
+Les ressortissants d’un État membre de l’Union européenne ou d’un État partie à l’accord sur l’Espace économique européen et les ressortissants de pays tiers doivent également justifier d’une connaissance de la langue française suffisante pour l’exercice d’une activité d’agence de recherches privées mentionnée à l’article L. 621‑1, selon des modalités définies par décret en Conseil d’État.
+
+# Article 18
+
+## Avant
+
+### 613-2
+
+Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
+
+
+Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1, spécialement habilitées à cet effet et agréées par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police dans les conditions prévues par décret en Conseil d'Etat, peuvent, en cas de circonstances particulières liées à l'existence de menaces graves pour la sécurité publique ou lorsqu'un périmètre de protection a été institué en application de l'article L. 226-1, procéder, avec le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation de sécurité doit être faite par une personne de même sexe que la personne qui en fait l'objet. En l'absence d'arrêté instituant un périmètre de protection, ces circonstances particulières sont constatées par un arrêté du représentant de l'Etat dans le département ou, à Paris, du préfet de police, qui en fixe la durée et détermine les lieux ou catégories de lieux dans lesquels les contrôles peuvent être effectués. Cet arrêté est communiqué au procureur de la République.
+
+### 613-3
+
+Pour l'accès aux enceintes dans lesquelles est organisée une manifestation sportive, récréative ou culturelle rassemblant plus de 300 spectateurs, les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1, agréées par la commission d'agrément et de contrôle territorialement compétente dans les conditions prévues par décret en Conseil d'Etat, ainsi que celles, membres du service d'ordre affecté par l'organisateur à la sécurité de la manifestation sportive, récréative ou culturelle en application des dispositions de l'article L. 211-11, titulaires d'une qualification reconnue par l'Etat et agréées par la commission d'agrément et de contrôle territorialement compétente, peuvent procéder, sous le contrôle d'un officier de police judiciaire et avec le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation doit être effectuée par une personne de même sexe que la personne qui en fait l'objet.
+Elles peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
+
+## Aprés
+
+### 613-2
+
+Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
+
+Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 peuvent, en cas de circonstances particulières liées à l'existence de menaces graves pour la sécurité publique ou lorsqu'un périmètre de protection a été institué en application de l'article L. 226-1, procéder, avec le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation de sécurité doit être faite par une personne de même sexe que la personne qui en fait l'objet. En l'absence d'arrêté instituant un périmètre de protection, ces circonstances particulières sont constatées par un arrêté du représentant de l'Etat dans le département ou, à Paris, du préfet de police, qui en fixe la durée et détermine les lieux ou catégories de lieux dans lesquels les contrôles peuvent être effectués. Cet arrêté est communiqué au procureur de la République.
+
+### 613-3
+
+Pour l'accès aux enceintes dans lesquelles est organisée une manifestation sportive, récréative ou culturelle rassemblant plus de 300 spectateurs, les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 ainsi que celles, membres du service d'ordre affecté par l'organisateur à la sécurité de la manifestation sportive, récréative ou culturelle en application des dispositions de l'article L. 211-11, titulaires d'une qualification reconnue par l'Etat et agréées par la commission d'agrément et de contrôle territorialement compétente, peuvent procéder, sous le contrôle d'un officier de police judiciaire et avec le consentement exprès des personnes, à des palpations de sécurité. Dans ce cas, la palpation doit être effectuée par une personne de même sexe que la personne qui en fait l'objet.
+Elles peuvent procéder à l'inspection visuelle des bagages et, avec le consentement de leur propriétaire, à leur fouille.
+
+# Article 19 ter
+
+## Avant
+
+### L. 612‑20
+
+Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 611-1 :
+
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+
+2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+
+4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat et, s'il utilise un chien dans le cadre de son emploi ou de son affectation, de l'obtention d'une qualification définie en application de l'article L. 613-7.
+
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée selon des modalités définies par décret en Conseil d'Etat.
+
+La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et de la pêche maritime.
+
+Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L. 616-2.
+
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### L617-1
+
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende :
+
+1° Le fait, sauf pour les personnes mentionnées au 2° de l'article L. 612-1 et sous réserve des dispositions de l'article 29 du code de procédure pénale, d'exercer pour autrui, à titre professionnel, les activités mentionnées aux 1° à 4° de l'article L. 611-1 sans être immatriculé au registre du commerce et des sociétés ;
+
+2° Le fait d'exercer l'une des activités mentionnées aux 1° et 2° de l'article L. 611-1 et d'avoir, en outre, soit une activité qui n'est pas liée à la sécurité ou au transport de fonds, de bijoux ou de métaux précieux, soit l'activité d'agent privé de recherches ;
+
+2° bis Le fait d'exercer l'activité mentionnée au 1° bis du même article L. 611-1 et d'exercer une autre activité ;
+
+3° Le fait d'exercer l'activité mentionnée au 3° de l'article L. 611-1 et d'avoir une autre activité ;
+
+3° bis Le fait d'exercer l'activité mentionnée au 4° du même article L. 611-1 et d'avoir, en outre, une activité autre que le conseil et la formation en matière de sûreté maritime ;
+
+4° Le fait de commettre l'un des agissements mentionnés à l'article L. 612-4.
+
+### L. 617-7
+
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
+1° Le fait d'employer une personne non titulaire de la carte professionnelle mentionnée à l'article L. 612-20, en vue de la faire participer à l'une des activités mentionnées à l'article L. 611-1 ;
+2° Le fait de sous-traiter l'exercice d'une activité mentionnée à l'article L. 611-1 à une entreprise employant des personnes dépourvues de la carte professionnelle mentionnée à l'article L. 612-20.
+
+## Aprés
+
+### L. 612‑20
+
+Nul ne peut être employé ou affecté pour participer à une activité mentionnée à l'article L. 611-1 :
+
+1° S'il a fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, pour des motifs incompatibles avec l'exercice des fonctions ;
+
+2° S'il résulte de l'enquête administrative, ayant le cas échéant donné lieu à consultation, par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés, des traitements de données à caractère personnel gérés par les services de police et de gendarmerie nationales relevant des dispositions de l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification, que son comportement ou ses agissements sont contraires à l'honneur, à la probité, aux bonnes mœurs ou sont de nature à porter atteinte à la sécurité des personnes ou des biens, à la sécurité publique ou à la sûreté de l'Etat et sont incompatibles avec l'exercice des fonctions susmentionnées ;
+
+3° S'il a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
+
+4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire national après consultation des traitements de données à caractère personnel relevant des dispositions de l'article R. 611-1 du code de l'entrée et du séjour des étrangers et du droit d'asile par des agents du Conseil national des activités privées de sécurité spécialement habilités par le représentant de l'Etat territorialement compétent et individuellement désignés ;
+
+5° S'il ne justifie pas de son aptitude professionnelle selon des modalités définies par décret en Conseil d'Etat
+
+Le respect de ces conditions est attesté par la détention d'une carte professionnelle délivrée selon des modalités définies par décret en Conseil d'Etat.
+
+La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et de la pêche maritime ou s’il ne satisfait pas au contrôle régulier de ses compétences en application de l’article L. 613‑7‑1 A.
+
+Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L. 616-2.
+
+En cas d'urgence, le président de la commission d'agrément et de contrôle territorialement compétente peut retirer la carte professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.
+
+### nouveau article
+
+Art. L. 613‑7‑1 A. – Sans préjudice de l’article L. 733‑1 et sous réserve d’avoir fait l’objet d’une certification technique et de satisfaire au contrôle régulier de leurs compétences, les agents exerçant l’activité de surveillance mentionnée à l’article L. 611‑1 peuvent utiliser un chien afin de mettre en évidence l’existence d’un risque lié à la présence de matières explosives.
+
+« Un décret en Conseil d’État fixe les conditions d’exercice de cette mission ainsi que les conditions de formation, de certification technique et de contrôle des compétences applicables aux agents et aux chiens mentionnés au premier alinéa. Il prévoit également les règles propres à garantir la conformité des conditions de détention et d’utilisation des chiens aux exigences des articles L. 214‑2 et L. 214‑3 du code rural et de la pêche maritime.
+
+« Les agents mentionnés au premier alinéa du présent article ne peuvent exercer simultanément cette mission et les prérogatives mentionnées aux articles L. 613‑2 et L. 613‑3. Cette mission ne peut s’exercer sur des personnes physiques. 
+
+« Les chiens mentionnés au présent article ne peuvent être utilisés à d’autres fins que l’identification d’un risque lié à la présence de matières explosives.
+
+« Le présent article ne s’applique pas aux activités de détection d’explosifs mentionnées au 12.9.2 de l’annexe au règlement d’exécution (UE) 2015/1998 de la Commission du 5 novembre 2015 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de l’aviation civile, qui font l’objet de dispositions particulières. » ; 
+
+### L617-1
+
+Est puni de trois ans d'emprisonnement et de 45 000 euros d'amende :
+
+1° Le fait, sauf pour les personnes mentionnées au 2° de l'article L. 612-1 et sous réserve des dispositions de l'article 29 du code de procédure pénale, d'exercer pour autrui, à titre professionnel, les activités mentionnées aux 1° à 4° de l'article L. 611-1 sans être immatriculé au registre du commerce et des sociétés ;
+
+2° Le fait d'exercer l'une des activités mentionnées aux 1° et 2° de l'article L. 611-1 et d'avoir, en outre, soit une activité qui n'est pas liée à la sécurité ou au transport de fonds, de bijoux ou de métaux précieux, soit l'activité d'agent privé de recherches ;
+
+2° bis Le fait d'exercer l'activité mentionnée au 1° bis du même article L. 611-1 et d'exercer une autre activité ;
+
+3° Le fait d'exercer l'activité mentionnée au 3° de l'article L. 611-1 et d'avoir une autre activité ;
+
+3° bis Le fait d'exercer l'activité mentionnée au 4° du même article L. 611-1 et d'avoir, en outre, une activité autre que le conseil et la formation en matière de sûreté maritime ;
+
+4° Le fait de commettre l'un des agissements mentionnés à l'article L. 612-4.
+
+« 5° Le fait d’utiliser un chien mentionné à l’article L. 613‑7‑1 A à une autre fin que la mise en évidence de l’existence d’un risque lié à la présence de matières explosives en violation du même article L. 613‑7‑1 A ;
+
+« 6° Le fait d’exercer l’activité mentionnée audit article L. 613‑7‑1 A sans remplir les conditions de formation, de certification technique et de contrôle prévues au même article L. 613‑7‑1 A ou d’utiliser un chien n’ayant pas satisfait à ces conditions en violation du même article L. 613‑7‑1 A ;
+
+« 7° Le fait d’exercer la mission mentionnée au même article L. 613‑7‑1 A sur des personnes physiques en violation du même article L. 613‑7‑1 A. » ; 
+
+### L. 617-7
+
+Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende :
+1° Le fait d'employer une personne non titulaire de la carte professionnelle mentionnée à l'article L. 612-20, en vue de la faire participer à l'une des activités mentionnées à l'article L. 611-1 ;
+2° Le fait de sous-traiter l'exercice d'une activité mentionnée à l'article L. 611-1 à une entreprise employant des personnes dépourvues de la carte professionnelle mentionnée à l'article L. 612-20.
+3° Le fait d’employer une personne ne remplissant pas les conditions de formation ou ne justifiant pas de la certification technique prévues à l’article L. 613‑7‑1A, en vue de la faire participer à la mission prévue au même article L. 613‑7‑1 A, en violation de celui-ci.
+
+### nouveau article
+
+« Art. L. 1634‑4. – Est puni de trois ans d’emprisonnement et de 45 000 euros d’amende :
+
+« 1° Le fait de recourir à une équipe cynotechnique mentionnée à l’article L. 1632‑3 à une autre fin que la mise en évidence de l’existence d’un risque lié à la présence de matières explosives ou dans un autre domaine que celui des transports ferroviaires ou guidés en violation de cet article ;
+
+« 2° Le fait, pour un agent des services internes de sécurité de la SNCF ou de la Régie autonome des transports parisiens mentionnés à l’article L. 2251‑1, d’exercer l’activité mentionnée à l’article L. 1632‑3 sans que l’équipe cynotechnique ne remplisse les conditions de formation et de qualification ou ne justifie de la certification technique prévues au même article L. 1632‑3 en violation dudit article L. 1632‑3 ;
+
+« 3° Le fait, pour un agent des services internes de sécurité de la SNCF ou de la Régie autonome des transports parisiens mentionnés à l’article L. 2251‑1, d’exercer l’activité mentionnée à l’article L. 1632‑3 sur une personne physique en violation du même article L. 1632‑3. » 
+
+### loi
+
+III. – Les dispositions du II du présent article entrent en vigueur à la date d’entrée en vigueur du décret en Conseil d’État mentionné à l’article L. 613‑7‑1 A du code de la sécurité intérieure.
+
+# Article 20
+
+## Avant
+
+### 252-2
+
+L'autorisation préfectorale prescrit toutes les précautions utiles, en particulier quant à la qualité des personnes chargées de l'exploitation du système de vidéoprotection ou visionnant les images et aux mesures à prendre pour assurer le respect des dispositions de la loi.
+
+Dans le cas prévu au dernier alinéa de l'article L. 251-2, le visionnage des images ne peut être assuré que par des agents de l'autorité publique individuellement désignés et habilités des services de police et de gendarmerie nationale.
+
+### 252-3
+
+L'autorisation peut prescrire que les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales ainsi que des douanes et des services d'incendie et de secours sont destinataires des images et enregistrements. Elle précise alors les modalités de transmission des images et d'accès aux enregistrements ainsi que la durée de conservation des images, dans la limite d'un mois à compter de cette transmission ou de cet accès, sans préjudice des nécessités de leur conservation pour les besoins d'une procédure pénale. La décision de permettre aux agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales ainsi que des douanes et des services d'incendie et de secours d'être destinataires des images et enregistrements peut également être prise à tout moment, après avis de la commission départementale de vidéoprotection, par arrêté préfectoral. Ce dernier précise alors les modalités de transmission des images et d'accès aux enregistrements. Lorsque l'urgence et l'exposition particulière à un risque d'actes de terrorisme le requièrent, cette décision peut être prise sans avis préalable de la commission départementale de vidéoprotection. Le président de la commission est immédiatement informé de cette décision, qui fait l'objet d'un examen lors de la plus prochaine réunion de la commission.
+
+## Aprés
+
+### 252-2
+
+L'autorisation préfectorale prescrit toutes les précautions utiles, en particulier quant à la qualité des personnes chargées de l'exploitation du système de vidéoprotection ou visionnant les images et aux mesures à prendre pour assurer le respect des dispositions de la loi.
+
+Dans le cas prévu au dernier alinéa de l'article L. 251-2, le visionnage des images ne peut être assuré que par des agents individuellement désignés et habilités des services de police et de gendarmerie nationales et des services de police municipale ainsi que par les agents individuellement désignés et dûment habilités mentionnés aux articles L. 531‑1, L. 532‑1 et L. 533‑1.
+
+### 252-3
+
+L'autorisation peut prescrire que les agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales des douanes, des services d’incendie et de secours, des services de police municipale ainsi que les agents individuellement désignés et dûment habilités mentionnés aux articles L. 531‑1, L. 532‑1 et L. 533‑1 sont destinataires des images et enregistrements. Elle précise alors les modalités de transmission des images et d'accès aux enregistrements ainsi que la durée de conservation des images, dans la limite d'un mois à compter de cette transmission ou de cet accès, sans préjudice des nécessités de leur conservation pour les besoins d'une procédure pénale. La décision de permettre aux agents individuellement désignés et dûment habilités des services de police et de gendarmerie nationales, des douanes, des services d’incendie et de secours, des services de police municipale ainsi qu’aux agents individuellement désignés et dûment habilités mentionnés aux articles L. 531‑1, L. 532‑1 et L. 533‑1d'être destinataires des images et enregistrements peut également être prise à tout moment, après avis de la commission départementale de vidéoprotection, par arrêté préfectoral. Ce dernier précise alors les modalités de transmission des images et d'accès aux enregistrements. Lorsque l'urgence et l'exposition particulière à un risque d'actes de terrorisme le requièrent, cette décision peut être prise sans avis préalable de la commission départementale de vidéoprotection. Le président de la commission est immédiatement informé de cette décision, qui fait l'objet d'un examen lors de la plus prochaine réunion de la commission.
+
+# Article 20 bis
+
+## Avant
+
+La transmission aux services chargés du maintien de l'ordre des images réalisées en vue de la protection des parties communes des immeubles collectifs à usage d'habitation lors de circonstances faisant redouter la commission imminente d'une atteinte grave aux biens ou aux personnes est autorisée sur décision de la majorité des copropriétaires dans les conditions fixées à l'article 25 de la loi no 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis [V. C. copr.] et, dans les immeubles sociaux, du gestionnaire. Les images susceptibles d'être transmises ne doivent concerner ni l'entrée des habitations privées, ni la voie publique.
+ Cette transmission s'effectue en temps réel et est strictement limitée au temps nécessaire à l'intervention des services de la police ou de la gendarmerie nationales ou, le cas échéant, des agents de la police municipale.
+ Une convention préalablement conclue entre le gestionnaire de l'immeuble et le représentant de l'État dans le département précise les conditions et modalités de ce transfert. Cette convention prévoit l'information par affichage sur place de l'existence du système de prise d'images et de la possibilité de leur transmission aux forces de l'ordre.
+ Lorsque la convention a pour objet de permettre la transmission des images aux services de police municipale, elle est en outre signée par le maire.
+ Cette convention est transmise à la commission départementale de vidéoprotection mentionnée à l'article 10 de la loi no 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité [V. désormais CSI, art. L. 251-4 s.] qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'État dans le département. — V. sur cette convention, art. R. 127-8.
+ Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi no 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+
+## Aprés
+
+La transmission aux services chargés du maintien de l'ordre des images réalisées en vue de la protection des parties communes des immeubles collectifs à usage d'habitation en cas d’occupation par des personnes qui entravent l’accès et la libre circulation des locataires ou empêchent le bon fonctionnement des dispositifs de sécurité et de sûreté ou nuisent à la tranquillité des lieux est autorisée sur décision de la majorité des copropriétaires dans les conditions fixées à l'article 25 de la loi no 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis [V. C. copr.] et, dans les immeubles sociaux, du gestionnaire. Les images susceptibles d'être transmises ne doivent concerner ni l'entrée des habitations privées, ni la voie publique.
+ Cette transmission s'effectue en temps réel, dès que les circonstances l’exigent en vue de l'intervention des services de la police ou de la gendarmerie nationales ou, le cas échéant, des agents de la police municipale.
+En cas d’urgence, la transmission des images peut être décidée par les services de la police ou de la gendarmerie nationales ou, le cas échéant, par les agents de la police municipale, à la suite d’une alerte déclenchée par le gestionnaire de l’immeuble.
+ Une convention préalablement conclue entre le gestionnaire de l'immeuble et le représentant de l'État dans le département précise les conditions et modalités de ce transfert. Cette convention prévoit l'information par affichage sur place de l'existence du système de prise d'images et de la possibilité de leur transmission aux forces de l'ordre.
+ Lorsque la convention a pour objet de permettre la transmission des images aux services de police municipale, elle est en outre signée par le maire.
+ Cette convention est transmise à la commission départementale de vidéoprotection mentionnée à l'article 10 de la loi no 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité [V. désormais CSI, art. L. 251-4 s.] qui apprécie la pertinence des garanties prévues et en demande, le cas échéant, le renforcement au représentant de l'État dans le département. — V. sur cette convention, art. R. 127-8.
+ Ne sont pas soumis au présent article les systèmes utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi no 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+
+# Article 21
+
+## Avant
+
+### titre chapitre
+
+Chapitre unique
+
+### 241-1
+
+Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens ainsi que de leurs missions de police judiciaire, les agents de la police nationale et les militaires de la gendarmerie nationale peuvent procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+
+L'enregistrement n'est pas permanent.
+
+Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents de la police nationale et des militaires de la gendarmerie nationale, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves ainsi que la formation et la pédagogie des agents.
+
+Les caméras sont portées de façon apparente par les agents et les militaires. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de l'intérieur. Les personnels auxquels les caméras individuelles sont fournies ne peuvent avoir accès directement aux enregistrements auxquels ils procèdent.
+
+Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois.
+
+Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
+
+### 241-2
+
+Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens ainsi que de leurs missions de police judiciaire, les agents de police municipale peuvent être autorisés, par le représentant de l'Etat dans le département, à procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+
+L'enregistrement n'est pas permanent.
+
+Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents de police municipale, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves ainsi que la formation et la pédagogie des agents.
+
+Les caméras sont portées de façon apparente par les agents. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de l'intérieur. Les personnels auxquels les caméras individuelles sont fournies ne peuvent avoir accès directement aux enregistrements auxquels ils procèdent.
+
+Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois.
+
+L'autorisation mentionnée au premier alinéa est subordonnée à la demande préalable du maire et à l'existence d'une convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat prévue à la section 2 du chapitre II du titre Ier du livre V du présent code.
+
+Lorsque l'agent est employé par un établissement public de coopération intercommunale et mis à disposition de plusieurs communes dans les conditions prévues au premier alinéa de l'article L. 512-2, cette demande est établie conjointement par l'ensemble des maires des communes où il est affecté.
+
+Les projets d'équipements des polices municipales en caméras individuelles sont éligibles au fonds interministériel pour la prévention de la délinquance défini à l'article 5 de la loi n° 2007-297 du 5 mars 2007 relative à la prévention de la délinquance.
+
+Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat, pris après avis publié et motivé de la Commission nationale de l'informatique et des libertés.
+
+## Aprés
+
+### titre chapitre
+
+Caméras individuelles
+
+### 241-1
+
+Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens ainsi que de leurs missions de police judiciaire, les agents de la police nationale et les militaires de la gendarmerie nationale peuvent procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+
+L'enregistrement n'est pas permanent.
+
+Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents de la police nationale et des militaires de la gendarmerie nationale, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves, la formation et la pédagogie des agents ainsi que l’information du public sur les circonstances de l’intervention, dans le respect de la protection de la vie privée des individus filmés par les agents.
+
+Lorsque la sécurité des agents de la police nationale ou des militaires de la gendarmerie nationale ou la sécurité des biens et des personnes est menacée, les images captées et enregistrées au moyen de caméras individuelles ou embarquées peuvent être transmises en temps réel au poste de commandement du service concerné et aux personnels impliqués dans la conduite et l’exécution de l’intervention.
+
+Les caméras sont portées de façon apparente par les agents et les militaires. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de l'intérieur. Les personnels auxquels les caméras individuelles sont fournies peuvent avoir accès directement aux enregistrements auxquels ils procèdent dans le cadre d’une procédure judiciaire ou d’une intervention.
+
+Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois.
+
+Les caméras sont équipées de dispositifs techniques permettant de garantir l’intégrité des enregistrements lorsqu’ils sont consultés dans le cadre de l’intervention.
+
+Les modalités d'application du présent article et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés.
+
+### 241-2
+
+Dans l'exercice de leurs missions de prévention des atteintes à l'ordre public et de protection de la sécurité des personnes et des biens ainsi que de leurs missions de police judiciaire, les agents de police municipale peuvent être autorisés, par le représentant de l'Etat dans le département, à procéder en tous lieux, au moyen de caméras individuelles, à un enregistrement audiovisuel de leurs interventions lorsque se produit ou est susceptible de se produire un incident, eu égard aux circonstances de l'intervention ou au comportement des personnes concernées.
+
+L'enregistrement n'est pas permanent.
+
+Les enregistrements ont pour finalités la prévention des incidents au cours des interventions des agents de police municipale, le constat des infractions et la poursuite de leurs auteurs par la collecte de preuves, la formation et la pédagogie des agents ainsi que l’information du public sur les circonstances de l’intervention
+
+Lorsque la sécurité des agents de la police municipale est menacée, les images captées et enregistrées au moyen de caméras individuelles peuvent être transmises en temps réel au poste de commandement du service concerné.
+
+Les caméras sont portées de façon apparente par les agents. Un signal visuel spécifique indique si la caméra enregistre. Le déclenchement de l'enregistrement fait l'objet d'une information des personnes filmées, sauf si les circonstances l'interdisent. Une information générale du public sur l'emploi de ces caméras est organisée par le ministre de l'intérieur. Les personnels auxquels les caméras individuelles sont fournies peuvent avoir accès directement aux enregistrements auxquels ils procèdent dans le cadre d’une procédure judiciaire ou d’une intervention.
+
+Les caméras sont équipées de dispositifs techniques permettant de garantir l’intégrité des enregistrements lorsqu’ils sont consultés dans le cadre de l’intervention.
+
+Les enregistrements audiovisuels, hors le cas où ils sont utilisés dans le cadre d'une procédure judiciaire, administrative ou disciplinaire, sont effacés au bout de six mois.
+
+L'autorisation mentionnée au premier alinéa est subordonnée à la demande préalable du maire et à l'existence d'une convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat prévue à la section 2 du chapitre II du titre Ier du livre V du présent code.
+
+Lorsque l'agent est employé par un établissement public de coopération intercommunale et mis à disposition de plusieurs communes dans les conditions prévues au premier alinéa de l'article L. 512-2, cette demande est établie conjointement par l'ensemble des maires des communes où il est affecté.
+
+Les projets d'équipements des polices municipales en caméras individuelles sont éligibles au fonds interministériel pour la prévention de la délinquance défini à l'article 5 de la loi n° 2007-297 du 5 mars 2007 relative à la prévention de la délinquance.
+
+Les modalités d'application du présent article, notamment les informations transmises au ministère de l’intérieur par les communes mettant en œuvre des caméras individuelles, et d'utilisation des données collectées sont précisées par un décret en Conseil d'Etat, pris après avis publié et motivé de la Commission nationale de l'informatique et des libertés.
