@@ -1850,3 +1850,142 @@ Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des comp
 Dans les communes de plus de 5 000 habitants et dans les communes comprenant un quartier prioritaire de la politique de la ville, le maire ou son représentant désigné dans les conditions prévues à l'article L. 2122-18 du code général des collectivités territoriales préside un conseil local de sécurité et de prévention de la délinquance. Lorsque, en application de l'article L. 132-13, il est créé un conseil intercommunal de sécurité et de prévention de la délinquance, la mise en place par les communes membres de l'établissement public de coopération intercommunale d'un conseil local de sécurité et de prévention de la délinquance est facultative.
 
 Dans les communes de plus de 10 000 habitants, un agent public territorial est chargé du suivi, de l’animation et de la coordination des travaux du conseil local de sécurité et de prévention de la délinquance.
+
+# Article 31
+
+## Avant
+
+### 285-1
+
+Sont applicables en Polynésie française, dans leur rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019, les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
+
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à L. 229-6 ;
+
+3° Le titre III ;
+
+4° Le titre IV ;
+
+5° Le titre V ;
+
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
+
+### 286-1
+
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019 les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
+
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à L. 229-6 ;
+
+3° Le titre III ;
+
+4° Le titre IV ;
+
+5° Le titre V ;
+
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
+
+### 287-1
+
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019, les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
+
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à L. 229-6 ;
+
+3° Le titre III ;
+
+4° Le titre IV ;
+
+5° Le titre V ;
+
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
+
+### 288-1
+
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de l'ordonnance n° 2019-738 du 17 juillet 2019, les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 et L. 214-2 ;
+
+2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7, L. 226-1 et L. 228-1 à L. 229-6 ;
+
+3° Au titre III : les articles L. 232-1 à L. 232-8, L. 234-1 à L. 234-3 ;
+
+4° Le titre V.
+
+## Aprés
+
+### 285-1
+
+Sont applicables en Polynésie française, dans leur rédaction résultant de la loi n°        du         relative à la sécurité globale, les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
+
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à L. 229-6 ;
+
+3° Le titre III ;
+
+4° Le titre IV ;
+
+5° Le titre V ;
+
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
+
+### 286-1
+
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n°        du         relative à la sécurité globale les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-1 à L. 211-12, L. 211-15, L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
+
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à L. 229-6 ;
+
+3° Le titre III ;
+
+4° Le titre IV ;
+
+5° Le titre V ;
+
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
+
+### 287-1
+
+Sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant de la loi n°        du         relative à la sécurité globale, les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-1 à L. 211-9, L. 211-11, L. 211-12, L. 211-15 et L. 211-16, L. 212-1, L. 213-1, L. 214-1 à L. 214-4 ;
+
+2° Au titre II : les articles L. 221-1, L. 222-1, L. 222-3, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7 et L. 226-1 à L. 229-6 ;
+
+3° Le titre III ;
+
+4° Le titre IV ;
+
+5° Le titre V ;
+
+6° Au titre VI : l'article L. 262-1 ;
+
+7° Au titre VII : l'article L. 271-1.
+
+### 288-1
+
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n°        du         relative à la sécurité globale, les dispositions suivantes :
+
+1° Au titre Ier : les articles L. 211-5 à L. 211-9, L. 211-11, L. 211-12, L. 211-15, L. 211-16, L. 214-1 et L. 214-2 ;
+
+2° Au titre II : les articles L. 222-1, L. 223-1 à L. 223-9, L. 224-1, L. 225-1 à L. 225-7, L. 226-1 et L. 228-1 à L. 229-6 ;
+
+3° Au titre III : les articles L. 232-1 à L. 232-8, L. 234-1 à L. 234-3 ;
+
+4° Le titre V.
+
